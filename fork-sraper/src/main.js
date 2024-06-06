@@ -12,6 +12,8 @@ function sleep(millis = 1000) {
 
   const MAX_SPEND_AMOUNT = 175_000;
 
+  const SLEEP_TIME = 200;
+
   const pageUrls = [
     'https://salesweb.civilview.com/Sales/SalesSearch?countyId=25',   // Atlantic County, NJ
     'https://salesweb.civilview.com/Sales/SalesSearch?countyId=6',    // Cumberland County, NJ
@@ -34,7 +36,7 @@ function sleep(millis = 1000) {
 
     // Puppeteer setup
 
-    await sleep(pageIndex * 100)
+    await sleep(pageIndex * SLEEP_TIME)
 
     const browser = await puppeteer.launch();
     const page = await browser.newPage();
