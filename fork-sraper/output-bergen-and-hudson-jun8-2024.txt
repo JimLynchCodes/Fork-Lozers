@@ -1,0 +1,461 @@
+
+> fork-sraper@1.0.0 start
+> node src/main.js
+
+💥 504 AVE ABAYONNE NJ 07002
+✅ 75 LIBERTY AVENUE UNIT A6JERSEY CITY NJ 07306
+💥 146 NORTH CENTRAL AVENUERAMSEY NJ 07446
+💥 9 AVENUE AT PORT IMPERIAL UNITS 506, 606 AND 716WEST NEW YORK NJ 07093
+💥 240 BERRY STREETHACKENSACK NJ 07601
+💥 6712 NEWKIRK AVENUENORTH BERGEN NJ 07047
+💥 185 COLONIAL ROADEMERSON NJ 07630
+💥 297 8TH STREETJERSEY CITY NJ 07302
+💥 19 OAK STREETJERSEY CITY NJ 07304
+💥 37 SWAN ROADMAHWAH NJ 07430
+💥 116 RANDOLPH AVENUEJERSEY CITY NJ 07305
+💥 248 SHEPARD AVENUEENGLEWOOD NJ 07631
+💥 62-68 69TH STREET UNIT 206GUTTENBERG NJ 07093
+✅ 360 LEONARD DRIVENEW MILFORD NJ 07646
+💥 317 9TH STREETUNION CITY NJ 07087
+💥 22 OAKWOOD DRIVEWOODCLIFF LAKE NJ 07677
+💥 219 MALLORY AVENUEJERSEY CITY NJ 07304
+💥 61 GRAHAM PLACETEANECK NJ 07666
+💥 352 WEST SIDE AVENUEAND 291 GRANT AVENUEJERSEY CITY NJ 07305
+💥 276 HIGH STREETHACKENSACK NJ 07601
+✅ 145 HARRISON AVE UNIT B1JERSEY CITY NJ 07304
+💥 47 13TH AVENUEELMWOOD PARK NJ 07407
+💥 124 W. 28TH STREETBAYONNE NJ 07002
+💥 14 VALLEY VIEW AVENUEOAKLAND NJ 07436
+💥 799 KENNEDY BOULEVARDBAYONNE NJ 07002
+💥 4C LAKEVIEW AVENUELEONIA NJ 07605
+✅ 155.5 ARLINGTON AVENUEA/K/A 155 A ARLINGTON AVENUEJERSEY CITY NJ 07305
+💥 674 LAFAYETTE AVENUEWESTWOOD NJ 07675
+💥 1070 KENNEDY BOULEVARD APT 2ABAYONNE NJ 07002
+💥 32 WENONAH AVENUEOAKLAND NJ 07436
+💥 63 MADISON STREET APT 2HOBOKEN NJ 07030
+💥 332 EAST MAIN STREETBERGENFIELD NJ 07621
+💥 300 SECOND STREET UNIT 2JERSEY CITY NJ 07302
+💥 8 MEVAN AVENUEENGLEWOOD NJ 07631
+💥 7420 4TH AVENUENORTH BERGEN NJ 07047
+💥 14 COGER STREETSADDLE BROOK NJ 07663
+✅ 64 BOSTWICK AVENUEAPT 2JERSEY CITY NJ 07305
+💥 921 FRANKLIN LAKE ROADFRANKLIN LAKES NJ 07417
+💥 500 CENTRAL AVENUE APT 1412UNION CITY NJ 07087
+💥 152 BROWNSTONE COURTOLD TAPPAN NJ 07675
+💥 1703 81ST STREETNORTH BERGEN NJ 07047
+💥 12 BRANDT STREETLITTLE FERRY NJ 07643
+✅ 600 SOUTH FIFTH STREETAND 600 FRANK RODGERS BOULEVARD SOUTHHARRISON NJ 07029
+💥 273 MAITLAND AVENUETEANECK NJ 07666
+✅ 150 CLERK STREETJERSEY CITY NJ 07305
+💥 616 BRIDLE PATHWYCKOFF NJ 07481
+💥 512 PATERSON PLANK ROADJERSEY CITY NJ 07307
+💥 5408 CITY PLACEEDGEWATER NJ 07020
+💥 1740 HARMON COVE TOWERSWITH A MAILING ADDRESS OF 1740 HARMON TOWERSSECAUCUS NJ 07094
+✅ 101 WINDING CREEKOLD TAPPAN NJ 07675
+✅ 508 DAVIS STREETKEARNY NJ 07032
+💥 65 LINCOLN PLACEGARFIELD NJ 07026-1819
+✅ 666 CHESTNUT PLACESECAUCUS NJ 07094
+💥 7-06 5TH STREETFAIR LAWN NJ 07410
+💥 101-25 EAST SHEARWATER COURT (UNIT 2E, BUILDING 101)JERSEY CITY NJ 07305
+💥 175 EAST CRESCENT AVENUEALLENDALE NJ 07401
+✅ 330 MADISON STREET UNIT 5HOBOKEN NJ 07030
+💥 55-57 9TH STREETAKA 55 9TH STREET #57NORTH ARLINGTON NJ 07031
+💥 5 BUTTERNUT STREETJERSEY CITY NJ 07305
+💥 239 MOUNTAIN ROADENGLEWOOD NJ 07631
+💥 50 DEY STREET #225JERSEY CITY NJ 07306
+✅ 701 PASCACK ROADTOWNSHIP OF WASHINGTON NJ 07675
+💥 608 BRAMHALL AVENUE UNIT 1-LLJERSEY CITY NJ 07304
+💥 508 STUYVESANT AVENUERUTHERFORD NJ 07070
+💥 712 80TH STREETNORTH BERGEN NJ 07047
+💥 493 LIBERTY AVENUEJERSEY CITY NJ 07307
+💥 584 COLUMBIA STREETNEW MILFORD NJ 07646
+💥 483 BERGEN AVENUEJERSEY CITY NJ 07304
+💥 505 MARLBORO ROADWOOD RIDGE NJ 07075
+💥 1719 JOHN F KENNEDY BOULEVARDJERSEY CITY NJ 07305
+💥 83 SUSSEX STREETHACKENSACK NJ 07601
+💥 1209 8TH STREETNORTH BERGEN NJ 07047
+💥 871 PARK AVENUERIVER EDGE NJ 07661-2434
+✅ 1227 HILLSIDE PLACENORTH BERGEN NJ 07047
+✅ 341 EAST COLUMBIA AVENUEUNIT BPALISADES PARK NJ 07650
+💥 333 FORREST STREETJERSEY CITY NJ 07304
+💥 408 SUTTON AVENUEHACKENSACK NJ 07601
+✅ 518 KENNEDY BOULEVARDBAYONNE NJ 07002
+💥 171 LAFAYETTE AVENUEDUMONT NJ 07628
+✅ 1219 14TH STREETNORTH BERGEN NJ 07047
+💥 410 PIERMONT ROADCLOSTER NJ 07624
+💥 821-823 SUMMIT AVENUEUNION CITY NJ 07087
+💥 70 BRUNO STREETMOONACHIE NJ 07074
+✅ 138 WEST 28TH STREETBAYONNE NJ 07002
+💥 48 SHERMAN PLACERIDGEWOOD NJ 07450
+💥 228 71ST STREET, UNIT 1GUTTENBERG NJ 07093
+💥 111 BOTANY STREETGARFIELD NJ 07026
+💥 78 WOODLAWN AVENUEJERSEY CITY NJ 07305
+💥 124 WEST 10TH STREET,BAYONNE NJ 07002
+💥 41 ANDREW STREETBAYONNE NJ 07002
+💥 1427 46TH STREETNORTH BERGEN NJ 07047
+💥 131 CLINTON PLACEUNIT 201HACKENSACK NJ 07601
+✅ 521 55TH STREETWEST NEW YORK NJ 07093
+💥 27 LENAPE LANEOAKLAND NJ 07436
+💥 568-570A AVENUE CA/K/A 570A AVENUE CBAYONNE NJ 07002
+💥 365 GRACE AVENUEGARFIELD NJ 07026
+💥 4517 HARRISON PLACEUNION CITY NJ 07087
+💥 202 BERRY STREETHACKENSACK NJ 07601
+💥 334-336 HALLADAY STREETJERSEY CITY NJ 07304
+💥 860 RIVERVALE ROADRIVER VALE NJ 07675
+💥 107 GRAND PLACEKEARNY NJ 07032
+💥 342 SCHRAALENBURGH ROADHAWORTH NJ 07641
+💥 1330 CLINTON STREET UNIT #608(A/K/A 1317 GRAND STREET)HOBOKEN NJ 07030
+💥 387 CAMBRIDGE DRIVEUNIT 387RAMSEY NJ 07446
+💥 634 GARFIELD AVENUEJERSEY CITY NJ 07305
+💥 441 ORCHARD STREETENGLEWOOD NJ 07631
+💥 29 VAN REYPEN STREETJERSEY CITY NJ 07306-4520
+💥 6 JUNIPER STREETDUMONT NJ 07628
+💥 250 MAPLE STREETKEARNY NJ 07032
+💥 11 FAIRWAY COURTCRESSKILL NJ 07626
+💥 22 E 4TH STREETBAYONNE NJ 07002
+💥 33 PULASKI PLACEAKA 33-35 PULASKI PLACEHACKENSACK NJ 07601
+💥 280 KEARNY AVENUEKEARNY NJ 07032
+💥 69 LINCOLN AVENUEELMWOOD PARK NJ 07407
+💥 36 WEST 14TH STREET UNIT 103BAYONNE NJ 07002
+💥 360 LIBERTY ROADENGLEWOOD NJ 07631
+💥 15 ENTERPRISE CTALSO KNOWN AS 15 ENTERPRISE COURT #210JERSEY CITY NJ 07305
+💥 104 HORIZON TERRACEHILLSDALE NJ 07642
+💥 9060 PALISADE AVENUE UNIT 512NORTH BERGEN NJ 07047
+💥 488 DEWEY AVENUESADDLE BROOK NJ 07663
+💥 689 KENNEDY BOULEVARDBAYONNE NJ 07002
+💥 148 12TH STREETWOOD RIDGE NJ 07075
+💥 3624 CHARLES COURTNORTH BERGEN NJ 07047
+💥 26 CARTER STREETNORWOOD NJ 07648
+💥 647-653 KENNEDY BOULEVARDMAILING ADDRESS: 647-651 BOULEVARD #201BAYONNE NJ 07002
+💥 56 BEECH STREETWESTWOOD NJ 07675
+💥 214 ANGELIQUE STREETWEEHAWKEN NJ 07086
+💥 54 KEASLER AVENUELODI NJ 07644
+💥 31 20TH STREETBAYONNE NJ 07002
+💥 177 LARCH AVENUETEANECK NJ 07666
+💥 193 BARTHOLDI AVENUEJERSEY CITY NJ 07305
+💥 61 CHARLES STREETALLENDALE NJ 07401
+💥 94 GRAHAM STREETJERSEY CITY NJ 07307
+💥 312 WEST PALISADE AVENUEENGLEWOOD NJ 07631
+💥 43 BERGEN AVENUEJERSEY CITY NJ 07305
+💥 211 VOORHIS AVENUENEW MILFORD NJ 07646
+💥 171 WINFIELD AVENUEJERSEY CITY NJ 07305
+💥 228 70TH STREET,GUTTENBERG NJ 07093
+💥 153 CHESTNUT AVENUEBOGOTA NJ 07603
+💥 2712 SUMMIT AVENUEUNION CITY NJ 07087
+💥 51-53 MACARTHUR AVENUEMAILING ADDRESS 53 MACARTHUR AVENUEGARFIELD NJ 07026
+💥 286 SUMMIT AVENUEJERSEY CITY NJ 07306
+💥 178 LEE STREETELMWOOD PARK NJ 07407
+💥 212 LINDEN AVENUEJERSEY CITY NJ 07305
+💥 32 HILLSIDE AVENUEBERGENFIELD NJ 07621
+💥 34 BERDAN STREETROCHELLE PARK NJ 07662
+💥 2465 1ST STREETFORT LEE NJ 07024
+💥 341 EAST COLUMBIA AVENUEUNIT BPALISADES PARK NJ 07650
+💥 32 JORDAN AVENUEWALLINGTON NJ 07057
+💥 363 VESTA COURTRIDGEWOOD NJ 07450
+💥 30 CHARLES STREETLITTLE FERRY NJ 07643
+✅ 53 MARTHA AVENUEELMWOOD PARK NJ 07407
+💥 363 OAK AVENUERIVER EDGE NJ 07661
+💥 91 FAIRMOUNT AVENUEHACKENSACK NJ 07601
+💥 225 5TH STREETRIDGEFIELD PARK NJ 07660
+💥 67 WOLCOTT ROADDUMONT NJ 07628
+💥 28 SPRUCE RUNUNIT 28, BUILDING ERAMSEY NJ 07446
+💥 310 PASSAIC AVENUECARLSTADT NJ 07072
+💥 2345 LINWOOD AVENUEUNIT LGFORT LEE NJ 07024
+💥 708 WINDSWEPT LANEFRANKLIN LAKES NJ 07417
+💥 732 TERRACE HEIGHTSWYCKOFF NJ 07481
+💥 80 MORNINGSIDE AVENUECRESSKILL NJ 07626
+💥 662 KENT AVENUETEANECK NJ 07666
+✅ 43 PEEK STREETROCHELLE PARK NJ 07662
+✅ 300 WINSTON DRIVEAPT L01CLIFFSIDE PARK NJ 07010
+💥 38 VAN VALKENBURGH AVENUEBERGENFIELD NJ 07621
+💥 30 COLE STREETELMWOOD PARK NJ 07407
+💥 67 EDGEWATER ROADCLIFFSIDE PARK NJ 07010
+💥 250 BLANCH AVENUEHARRINGTON PARK NJ 07640
+💥 1 SHORT STREETDUMONT NJ 07628
+💥 774 BERGEN BOULEVARDRIDGEFIELD NJ 07657
+💥 206 COLUMBIA STREETWOOD RIDGE NJ 07075
+💥 59 HILLE PLACERIDGEFIELD PARK NJ 07660
+💥 137 MORNINGSIDE LANEUNIT BPALISADES PARK NJ 07650
+💥 19 WOODWARD STREETSADDLE BROOK NJ 07663
+💥 51 AUTUMN STREETLODI NJ 07644
+💥 4-46 BOYD AVENUEFAIR LAWN NJ 07410
+✅ 76 STANDISH ROADHILLSDALE NJ 07642
+💥 2345 LINWOOD AVENUE4BFORT LEE NJ 07024
+💥 180 MARLBORO ROADGLEN ROCK NJ 07452
+💥 103 SYLVAN STREETRUTHERFORD NJ 07070
+💥 45 HORIZON COURTTOWNSHIP OF WASHINGTON NJ 07676
+💥 146 SUMMIT AVENUEHACKENSACK NJ 07601
+💥 717 FIRST STREETLYNDHURST NJ 07071
+💥 319 ORADELL AVENUEPARAMUS NJ 07652
+✅ 36 GLEN AVENUE EAST(A/K/A GLEN AVENUE)HARRINGTON PARK NJ 07640
+💥 111 BROAD AVENUELEONIA NJ 07605
+💥 277 GREAT SMOKEY LANEMAHWAH NJ 07430
+💥 7 HILLSIDE PLACENORTH ARLINGTON NJ 07031
+💥 217 GRAYSON PLACETEANECK NJ 07666
+💥 15 PARKWAY COURTWASHINGTON TOWNSHIP NJ 07676
+💥 414 N MAPLE AVENUERIDGEWOOD NJ 07450
+💥 115 WILLOWBROOK COURTPARAMUS NJ 07652
+💥 36 PULASKI AVENUEWALLINGTON NJ 07057
+✅ 72 WESTMINSTER AVENUESADDLE BROOK NJ 07663
+💥 62 EAST CRESCENT AVENUEMAHWAH NJ 07430
+💥 154 SPLIT ROCK ROADPARAMUS NJ 07652
+💥 6 FAIRFIELD COURTDEMAREST NJ 07627
+💥 87 WESTERVELT PLACETEANECK NJ 07666
+💥 20 HARCOURT AVENUEBERGENFIELD NJ 07621
+💥 145 SLOCUM AVENUEENGLEWOOD NJ 07631
+💥 247 HILLCREST AVENUEWOOD RIDGE NJ 07075
+💥 2 COLE COURTDUMONT NJ 07628
+💥 117 MIDWOOD ROADGLEN ROCK NJ 07452
+💥 272 MOUNT PLEASANT AVENUEWALLINGTON NJ 07057
+💥 17 CANDLESTICK LANEUPPER SADDLE RIVER NJ 07458
+💥 8 JOHN DOW AVENUEWALDWICK NJ 07463
+💥 311 HAVEN ROADFRANKLIN LAKES NJ 07417
+💥 180 TENNEY AVENUERIVER EDGE NJ 07661
+💥 578 COLONIAL ROADRIVER VALE NJ 07675
+💥 22-35 RADBURN ROADFAIR LAWN NJ 07410
+[
+  {
+    "rescheduleCount": 0,
+    "detailsLink": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=1304243248",
+    "categoryLink": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
+    "salesDate": "6/20/2024",
+    "upsetPrice": "$122,713.22",
+    "address": "155.5 ARLINGTON AVENUEA/K/A 155 A ARLINGTON AVENUEJERSEY CITY NJ 07305",
+    "upsetFloat": 122713.22,
+    "judgementFloat": null
+  },
+  {
+    "rescheduleCount": 0,
+    "detailsLink": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=1304243255",
+    "categoryLink": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
+    "salesDate": "6/20/2024",
+    "upsetPrice": "$88,065.75",
+    "address": "64 BOSTWICK AVENUEAPT 2JERSEY CITY NJ 07305",
+    "upsetFloat": 88065.75,
+    "judgementFloat": null
+  },
+  {
+    "rescheduleCount": 0,
+    "detailsLink": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=1304243224",
+    "categoryLink": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
+    "salesDate": "6/20/2024",
+    "upsetPrice": "$118,278.51",
+    "address": "600 SOUTH FIFTH STREETAND 600 FRANK RODGERS BOULEVARD SOUTHHARRISON NJ 07029",
+    "upsetFloat": 118278.51,
+    "judgementFloat": null
+  },
+  {
+    "rescheduleCount": 0,
+    "detailsLink": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=1304243121",
+    "categoryLink": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=7",
+    "salesDate": "6/14/2024",
+    "upsetPrice": "$101,886.75",
+    "address": "101 WINDING CREEKOLD TAPPAN NJ 07675",
+    "upsetFloat": 101886.75,
+    "judgementFloat": null
+  },
+  {
+    "rescheduleCount": 0,
+    "detailsLink": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=1304243260",
+    "categoryLink": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
+    "salesDate": "7/18/2024",
+    "upsetPrice": "$167,765.52",
+    "address": "508 DAVIS STREETKEARNY NJ 07032",
+    "upsetFloat": 167765.52,
+    "judgementFloat": null
+  },
+  {
+    "rescheduleCount": 0,
+    "detailsLink": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=1304243261",
+    "categoryLink": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
+    "salesDate": "7/18/2024",
+    "upsetPrice": "$107,938.87",
+    "address": "666 CHESTNUT PLACESECAUCUS NJ 07094",
+    "upsetFloat": 107938.87,
+    "judgementFloat": null
+  },
+  {
+    "rescheduleCount": 0,
+    "detailsLink": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=1304243263",
+    "categoryLink": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
+    "salesDate": "7/18/2024",
+    "upsetPrice": "$109,021.83",
+    "address": "330 MADISON STREET UNIT 5HOBOKEN NJ 07030",
+    "upsetFloat": 109021.83,
+    "judgementFloat": null
+  },
+  {
+    "rescheduleCount": 0,
+    "detailsLink": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=1304243128",
+    "categoryLink": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=7",
+    "salesDate": "6/28/2024",
+    "upsetPrice": "$65,362.79",
+    "address": "701 PASCACK ROADTOWNSHIP OF WASHINGTON NJ 07675",
+    "upsetFloat": 65362.79,
+    "judgementFloat": null
+  },
+  {
+    "rescheduleCount": 0,
+    "detailsLink": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=1304243240",
+    "categoryLink": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
+    "salesDate": "7/18/2024",
+    "upsetPrice": "$87,694.53",
+    "address": "1227 HILLSIDE PLACENORTH BERGEN NJ 07047",
+    "upsetFloat": 87694.53,
+    "judgementFloat": null
+  },
+  {
+    "rescheduleCount": 0,
+    "detailsLink": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=1304243133",
+    "categoryLink": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=7",
+    "salesDate": "6/28/2024",
+    "upsetPrice": "$115,526.52",
+    "address": "341 EAST COLUMBIA AVENUEUNIT BPALISADES PARK NJ 07650",
+    "upsetFloat": 115526.52,
+    "judgementFloat": null
+  },
+  {
+    "rescheduleCount": 0,
+    "detailsLink": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=1304243237",
+    "categoryLink": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
+    "salesDate": "7/18/2024",
+    "upsetPrice": "$167,179.86",
+    "address": "518 KENNEDY BOULEVARDBAYONNE NJ 07002",
+    "upsetFloat": 167179.86,
+    "judgementFloat": null
+  },
+  {
+    "rescheduleCount": 0,
+    "detailsLink": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=1304243225",
+    "categoryLink": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
+    "salesDate": "7/18/2024",
+    "upsetPrice": "$140,147.23",
+    "address": "1219 14TH STREETNORTH BERGEN NJ 07047",
+    "upsetFloat": 140147.23,
+    "judgementFloat": null
+  },
+  {
+    "rescheduleCount": 0,
+    "detailsLink": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=1304243137",
+    "categoryLink": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=7",
+    "salesDate": "7/12/2024",
+    "upsetPrice": "$113,442.32",
+    "address": "43 PEEK STREETROCHELLE PARK NJ 07662",
+    "upsetFloat": 113442.32,
+    "judgementFloat": null
+  },
+  {
+    "rescheduleCount": 0,
+    "detailsLink": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=1304243138",
+    "categoryLink": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=7",
+    "salesDate": "7/12/2024",
+    "upsetPrice": "$154,571.87",
+    "address": "300 WINSTON DRIVEAPT L01CLIFFSIDE PARK NJ 07010",
+    "upsetFloat": 154571.87,
+    "judgementFloat": null
+  },
+  {
+    "rescheduleCount": 0,
+    "detailsLink": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=1304243146",
+    "categoryLink": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=7",
+    "salesDate": "7/19/2024",
+    "upsetPrice": "$133,472.60",
+    "address": "76 STANDISH ROADHILLSDALE NJ 07642",
+    "upsetFloat": 133472.6,
+    "judgementFloat": null
+  },
+  {
+    "rescheduleCount": 1,
+    "detailsLink": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=1304243235",
+    "categoryLink": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
+    "salesDate": "6/20/2024",
+    "upsetPrice": "$116,022.12",
+    "address": "145 HARRISON AVE UNIT B1JERSEY CITY NJ 07304",
+    "upsetFloat": 116022.12,
+    "judgementFloat": null
+  },
+  {
+    "rescheduleCount": 1,
+    "detailsLink": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=1304243243",
+    "categoryLink": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
+    "salesDate": "7/18/2024",
+    "upsetPrice": "$158,606.38",
+    "address": "150 CLERK STREETJERSEY CITY NJ 07305",
+    "upsetFloat": 158606.38,
+    "judgementFloat": null
+  },
+  {
+    "rescheduleCount": 1,
+    "detailsLink": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=1304243227",
+    "categoryLink": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
+    "salesDate": "7/18/2024",
+    "upsetPrice": "$51,488.75",
+    "address": "138 WEST 28TH STREETBAYONNE NJ 07002",
+    "upsetFloat": 51488.75,
+    "judgementFloat": null
+  },
+  {
+    "rescheduleCount": 1,
+    "detailsLink": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=1304243098",
+    "categoryLink": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=7",
+    "salesDate": "8/2/2024",
+    "upsetPrice": "$131,661.21",
+    "address": "72 WESTMINSTER AVENUESADDLE BROOK NJ 07663",
+    "upsetFloat": 131661.21,
+    "judgementFloat": null
+  },
+  {
+    "rescheduleCount": 2,
+    "detailsLink": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=1304243165",
+    "categoryLink": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
+    "salesDate": "6/20/2024",
+    "upsetPrice": "$57,990.34",
+    "address": "75 LIBERTY AVENUE UNIT A6JERSEY CITY NJ 07306",
+    "upsetFloat": 57990.34,
+    "judgementFloat": null
+  },
+  {
+    "rescheduleCount": 2,
+    "detailsLink": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=1304243041",
+    "categoryLink": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=7",
+    "salesDate": "7/12/2024",
+    "upsetPrice": "$53,488.91",
+    "address": "53 MARTHA AVENUEELMWOOD PARK NJ 07407",
+    "upsetFloat": 53488.91,
+    "judgementFloat": null
+  },
+  {
+    "rescheduleCount": 4,
+    "detailsLink": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=1304243190",
+    "categoryLink": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
+    "salesDate": "7/18/2024",
+    "upsetPrice": "$150,271.43",
+    "address": "521 55TH STREETWEST NEW YORK NJ 07093",
+    "upsetFloat": 150271.43,
+    "judgementFloat": null
+  },
+  {
+    "rescheduleCount": 4,
+    "detailsLink": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=1304242282",
+    "categoryLink": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=7",
+    "salesDate": "7/26/2024",
+    "upsetPrice": "$166,973.27",
+    "address": "36 GLEN AVENUE EAST(A/K/A GLEN AVENUE)HARRINGTON PARK NJ 07640",
+    "upsetFloat": 166973.27,
+    "judgementFloat": null
+  },
+  {
+    "rescheduleCount": 5,
+    "detailsLink": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=1304242712",
+    "categoryLink": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=7",
+    "salesDate": "6/14/2024",
+    "upsetPrice": "$50,415.10",
+    "address": "360 LEONARD DRIVENEW MILFORD NJ 07646",
+    "upsetFloat": 50415.1,
+    "judgementFloat": null
+  }
+]
+Filtered 24 of 211!
+Max price: 175000
+Min price: 50000
+Sorting by: RESCHEDULES
