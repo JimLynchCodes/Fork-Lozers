@@ -20,7 +20,7 @@ function sleep(millis = 1000) {
 
   const pageUrls = [
     'https://salesweb.civilview.com/Sales/SalesSearch?countyId=25',   // Atlantic County, NJ
-    'https://salesweb.civilview.com/Sales/SalesSearch?countyId=6',    // Cumberland County, NJ
+    // 'https://salesweb.civilview.com/Sales/SalesSearch?countyId=6',    // Cumberland County, NJ
     // 'https://salesweb.civilview.com/Sales/SalesSearch?countyId=7',    // Bergen County, NJ
     // 'https://salesweb.civilview.com/Sales/SalesSearch?countyId=8',    // Monmouth County, NJ
     // 'https://salesweb.civilview.com/Sales/SalesSearch?countyId=9',    // Morris County, NJ
