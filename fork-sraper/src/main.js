@@ -10,21 +10,25 @@ function sleep(millis = 1000) {
 
   // -- Config -- Feel free to edit the settings below 👍
 
-  const MAX_SPEND_AMOUNT = 175_000;
+  const MAX_PRICE = 175_000;
+  const MIN_PRICE = 50_000;
+
+  const SORT_BY = 'RESCHEDULES';
+  // const SORT_BY = 'PRICE';
 
   const SLEEP_TIME = 200;
 
   const pageUrls = [
     'https://salesweb.civilview.com/Sales/SalesSearch?countyId=25',   // Atlantic County, NJ
     'https://salesweb.civilview.com/Sales/SalesSearch?countyId=6',    // Cumberland County, NJ
-    'https://salesweb.civilview.com/Sales/SalesSearch?countyId=7',    // Bergen County, NJ
-    'https://salesweb.civilview.com/Sales/SalesSearch?countyId=8',    // Monmouth County, NJ
-    'https://salesweb.civilview.com/Sales/SalesSearch?countyId=9',    // Morris County, NJ
-    'https://salesweb.civilview.com/Sales/SalesSearch?countyId=10',   // Hudson County, NJ
-    'https://salesweb.civilview.com/Sales/SalesSearch?countyId=15',   // Union County, NJ
-    'https://salesweb.civilview.com/Sales/SalesSearch?countyId=19',   // Gloucester County, NJ
-    'https://salesweb.civilview.com/Sales/SalesSearch?countyId=20',   // Salem County, NJ
-    'https://salesweb.civilview.com/Sales/SalesSearch?countyId=32',   // Hunterdon County, NJ
+    // 'https://salesweb.civilview.com/Sales/SalesSearch?countyId=7',    // Bergen County, NJ
+    // 'https://salesweb.civilview.com/Sales/SalesSearch?countyId=8',    // Monmouth County, NJ
+    // 'https://salesweb.civilview.com/Sales/SalesSearch?countyId=9',    // Morris County, NJ
+    // 'https://salesweb.civilview.com/Sales/SalesSearch?countyId=10',   // Hudson County, NJ
+    // 'https://salesweb.civilview.com/Sales/SalesSearch?countyId=15',   // Union County, NJ
+    // 'https://salesweb.civilview.com/Sales/SalesSearch?countyId=19',   // Gloucester County, NJ
+    // 'https://salesweb.civilview.com/Sales/SalesSearch?countyId=20',   // Salem County, NJ
+    // 'https://salesweb.civilview.com/Sales/SalesSearch?countyId=32',   // Hunterdon County, NJ
   ]
 
   // ==============================================================================================
@@ -50,7 +54,9 @@ function sleep(millis = 1000) {
     await page.waitForSelector(tableCellSelector);
     const tableCells = await page.$$(tableCellSelector);
 
-    let currentProperty = {}
+    let currentProperty = {
+      rescheduleCount: 0
+    }
 
     // Loop over main page table cells
 
@@ -60,7 +66,7 @@ function sleep(millis = 1000) {
 
       if (cellText === 'Details') {
 
-        currentProperty = {}
+        currentProperty = { rescheduleCount: 0 }
 
         // Read link from "Details" cell
 
@@ -115,6 +121,17 @@ function sleep(millis = 1000) {
             currentProperty.address = labelNeighborText.trim();
           }
 
+          if (detailCellText.includes('Re-Scheduled') ||
+            detailCellText.includes('Adjourned')) {
+
+            if (!currentProperty.rescheduleCount) {
+              currentProperty.rescheduleCount = 1;
+            } else {
+              currentProperty.rescheduleCount++;
+            }
+
+          }
+
         }))
 
         // Get upset and judgement as numbers, not strings
@@ -133,7 +150,8 @@ function sleep(millis = 1000) {
 
         totalPropertiesScanned++;
 
-        if (upsetFloat < MAX_SPEND_AMOUNT || judgementFloat < MAX_SPEND_AMOUNT) {
+        if ((upsetFloat < MAX_PRICE || judgementFloat < MAX_PRICE) &&
+          (upsetFloat > MIN_PRICE || judgementFloat > MIN_PRICE)) {
           outEmoji = '✅';
           properties.push(currentProperty);
         }
@@ -150,10 +168,12 @@ function sleep(millis = 1000) {
 
   properties.sort((a, b) => {
 
-    // console.log('comparing ', a)
-    // console.log('to ', b)
-
-    return (a.upsetFloat ? a.upsetFloat : a.judgementFloat) - (b.upsetFloat ? b.upsetFloat : b.judgementFloat)
+    if (SORT_BY === 'PRICE') {
+      return (a.upsetFloat ? a.upsetFloat : a.judgementFloat) - (b.upsetFloat ? b.upsetFloat : b.judgementFloat)
+    }
+    else if (SORT_BY === 'RESCHEDULES') {
+      return a.rescheduleCount - b.rescheduleCount
+    }
 
   })
 
@@ -162,6 +182,8 @@ function sleep(millis = 1000) {
   process.stdout.write(JSON.stringify(properties, null, 2) + '\n');
 
   console.log('Filtered ' + properties.length + " of " + totalPropertiesScanned + "!");
-  console.log('Max price: ' + MAX_SPEND_AMOUNT);
+  console.log('Max price: ' + MAX_PRICE);
+  console.log('Min price: ' + MIN_PRICE);
+  console.log('Sorting by: ' + SORT_BY);
 
 })();
