@@ -1,0 +1,1787 @@
+
+> fork-sraper@1.0.0 start
+> node src/main.js
+
+💥 2016 Grant AvenueAtlantic City NJ 08401
+💥 146 NORTH CENTRAL AVENUERAMSEY NJ 07446
+💥 504 AVE ABAYONNE NJ 07002
+💥 108 Mimosa LaneFreehold NJ 07728
+✅ 276 FAIRTON GOULDTOWN ROADBRIDGETON NJ 08302
+💥 509 EAST GRANT AVENUEROSELLE PARK NJ 07204
+✅ 2263 Richards AvenueHammonton NJ 08037
+💥 240 BERRY STREETHACKENSACK NJ 07601
+💥 411 Montclair DrivePleasantville NJ 08232
+✅ 220 DOREN TERRACEVINELAND NJ 08360
+💥 726-728 WESTMINSTER AVENUEELIZABETH NJ 07208
+💥 1402 Monmouth BoulevardWall NJ 07719
+✅ 75 LIBERTY AVENUE UNIT A6JERSEY CITY NJ 07306
+💥 185 COLONIAL ROADEMERSON NJ 07630
+✅ 101 Martin Luther KingEgg Harbor Township NJ 08234
+✅ 555 JEFFERSON AVENUEELIZABETH NJ 07201
+💥 37 SWAN ROADMAHWAH NJ 07430
+💥 13 Brookside AvenueKeansburg NJ 07734
+💥 9 AVENUE AT PORT IMPERIAL UNITS 506, 606 AND 716WEST NEW YORK NJ 07093
+✅ 173 POINT BREEZE DRIVEMILLVILLE NJ 08332
+💥 635 Susan LaneBrielle NJ 08730
+💥 6712 NEWKIRK AVENUENORTH BERGEN NJ 07047
+✅ 4834 White Horse Pikef/k/a 737 White Horse PikeMullica Township NJ 08062
+💥 1804 MAC DOUGALL TERRACEMILLVILLE NJ 08332
+💥 904 THIRD AVENUEELIZABETH NJ 07201
+💥 248 SHEPARD AVENUEENGLEWOOD NJ 07631
+✅ 360 LEONARD DRIVENEW MILFORD NJ 07646
+💥 55 Deerfield RoadMorganville NJ 07751
+💥 2600 4th AvenueHammonton NJ 08037
+✅ 1062 WILLIAM STREETELIZABETH NJ 07201
+💥 297 8TH STREETJERSEY CITY NJ 07302
+💥 3122 LEXINGTON AVENUELAWRENCE TWP NJ 08322
+💥 291 Kent RoadHowell NJ 07731
+💥 431A Second Avenuea/k/a 431A S 2nd AvenueGalloway Township NJ 08205
+💥 22 OAKWOOD DRIVEWOODCLIFF LAKE NJ 07677
+✅ 840 MARTIN STREETELIZABETH NJ 07201
+💥 19 OAK STREETJERSEY CITY NJ 07304
+✅ 107 NORTH EAST AVENUEVINELAND NJ 08360
+💥 208 EAST 8TH AVENUEROSELLE NJ 07203
+💥 61 GRAHAM PLACETEANECK NJ 07666
+💥 116 RANDOLPH AVENUEJERSEY CITY NJ 07305
+💥 10 Franklin DriveSomers Point NJ 08244
+💥 2 Dora LaneHolmdel NJ 07733
+✅ 801 WOODLAND AVENUEMILLVILLE NJ 08332
+💥 62-68 69TH STREET UNIT 206GUTTENBERG NJ 07093
+✅ 460 Netherwood DriveKeyport NJ 07735
+💥 276 HIGH STREETHACKENSACK NJ 07601
+💥 584 Fairway LaneUnit 48, Timeshare Estate No. 48Galloway Township NJ 08205
+💥 131 BEAVER DRIVEMILLVILLE NJ 08332
+💥 919 WOODLAWN AVENUELINDEN NJ 07036
+💥 2100 Princeton CourtAllenwood NJ 08720
+💥 47 13TH AVENUEELMWOOD PARK NJ 07407
+✅ 7 Thoroughbred RoadEgg Harbor Township NJ 08234
+💥 317 9TH STREETUNION CITY NJ 07087
+✅ 16 SPRING STREETBRIDGETON NJ 08302
+💥 2274 LUDLOW STREETRAHWAY NJ 07065
+💥 703 Central AvenueUnion Beach NJ 07735
+💥 219 MALLORY AVENUEJERSEY CITY NJ 07304
+💥 14 VALLEY VIEW AVENUEOAKLAND NJ 07436
+💥 312 West Bayview AvenuePleasantville NJ 08232
+💥 1260 SHERWOOD DRIVEVINELAND NJ 08361
+💥 2105 EVANS STREETRAHWAY NJ 07065
+💥 515 Fairway LaneUnit 1624, Timeshare Estate No. 17Galloway Township NJ 08205
+💥 4C LAKEVIEW AVENUELEONIA NJ 07605
+💥 352 WEST SIDE AVENUEAND 291 GRANT AVENUEJERSEY CITY NJ 07305
+💥 217 RAMAH ROADBRIDGETON NJ 08302
+💥 301 Spring Street #11Red Bank NJ 07701
+💥 633-35 EAST 2ND STREETPLAINFIELD NJ 07060
+✅ 3083 Ivins AvenueEgg Harbor Township NJ 08234
+✅ 145 HARRISON AVE UNIT B1JERSEY CITY NJ 07304
+✅ 207 FENIMORE STVINELAND NJ 08360
+💥 1470 CAMPBELL STREETPB 5  BLDG 2RAHWAY NJ 07065
+💥 674 LAFAYETTE AVENUEWESTWOOD NJ 07675
+💥 735 Hulses Corner RoadHowell NJ 07731
+✅ 308 BERCKMAN STREETPLAINFIELD NJ 07062
+✅ 147 Treetop LaneEgg Harbor Township NJ 08234
+💥 1214 ROBIN ROADMILLVILLE NJ 08332
+💥 32 WENONAH AVENUEOAKLAND NJ 07436
+💥 124 W. 28TH STREETBAYONNE NJ 07002
+✅ 431 South Laurel AvenueHazlet NJ 07730
+💥 928 SOUTH MILL ROADVINELAND NJ 08360
+💥 63 MADISON STREET APT 2HOBOKEN NJ 07030
+💥 116-22 PINEVIEW TERRACEPLAINFIELD NJ 07060
+💥 8 MEVAN AVENUEENGLEWOOD NJ 07631
+💥 1906 Westfield Street(commonly known as City of Oakhurst)Ocean NJ 07755
+💥 707 New Maple RoadPleasantville NJ 08232
+💥 14 COGER STREETSADDLE BROOK NJ 07663
+💥 48 Smallwood LaneManalapan NJ 07726
+✅ 606 F STREETMILLVILLE NJ 08332
+💥 1243 WHELAN PLACERAHWAY NJ 07065
+💥 300 SECOND STREET UNIT 2JERSEY CITY NJ 07302
+💥 95 Robert Best RoadEgg Harbor Township NJ 08234
+💥 111 AVON STREETROSELLE PARK NJ 07204
+✅ 503 IRELAND AVENUEMILLVILLE NJ 08332
+💥 921 FRANKLIN LAKE ROADFRANKLIN LAKES NJ 07417
+💥 219 Mitchell DriveEgg Harbor Township NJ 08234
+💥 7420 4TH AVENUENORTH BERGEN NJ 07047
+✅ 1851 Carmerville RoadWall NJ 07719
+✅ 4675 Ocean AvenueMays Landing NJ 08330
+✅ 405 GOOSEBERRY ROADMILLVILLE NJ 08332
+✅ 1535 MYRTLE AVENUEPLAINFIELD NJ 07060
+✅ 64 BOSTWICK AVENUEAPT 2JERSEY CITY NJ 07305
+💥 152 BROWNSTONE COURTOLD TAPPAN NJ 07675
+💥 3 Yellow MeetinghouseMillstone NJ 08510
+💥 500 CENTRAL AVENUE APT 1412UNION CITY NJ 07087
+✅ 8 West 15th StreetHammonton NJ 08037
+✅ 27 NORTH LAKESHORE DRIVEMILLVILLE NJ 08332
+✅ 760 DRAKE AVENUEROSELLE NJ 07203
+💥 10 Cheyenne StreetTinton Falls Borough NJ 07712
+💥 12 BRANDT STREETLITTLE FERRY NJ 07643
+💥 1703 81ST STREETNORTH BERGEN NJ 07047
+✅ 639 FORDVILLE ROADTOWNSHIP OF FAIRFIELD (BRIDGETON) NJ 08302
+💥 359 Lorillard AvenueUnion Beach NJ 07735
+💥 1251-1259 Havana Avenuea/k/a 1251 Havana AvenueEgg Harbor City NJ 08215
+💥 273 MAITLAND AVENUETEANECK NJ 07666
+✅ 75 LAUREL AVENUEUNION NJ 07083
+💥 613 RAMAH ROADMILLVILLE (LAWRENCE TWP) NJ 08332
+✅ 600 SOUTH FIFTH STREETAND 600 FRANK RODGERS BOULEVARD SOUTHHARRISON NJ 07029
+💥 65 Cross RoadColts Neck NJ 07722
+💥 4456 Ocean Heights AvenueMays Landing NJ 08330
+💥 616 BRIDLE PATHWYCKOFF NJ 07481
+💥 158-160 MONMOUTH ROADELIZABETH NJ 07208
+✅ 79 CUMBERLAND AVENUEBRIDGETON NJ 08302
+💥 402 Atkins AvenueNeptune NJ 07753
+💥 613 Chicago AvenueEgg Harbor City NJ 08215
+💥 799 KENNEDY BOULEVARDBAYONNE NJ 07002
+💥 5408 CITY PLACEEDGEWATER NJ 07020
+✅ 1451 BOND STREETHILLSIDE NJ 07205
+✅ 1964 EAST OAK ROAD UNIT O-1VINELAND NJ 08361
+💥 11 Belfast AvenueHazlet NJ 07730
+💥 104 East Summer RoadLandisville NJ 08326
+✅ 155.5 ARLINGTON AVENUEA/K/A 155 A ARLINGTON AVENUEJERSEY CITY NJ 07305
+✅ 101 WINDING CREEKOLD TAPPAN NJ 07675
+💥 1192 REVOIR DRIVERAHWAY NJ 07065
+✅ 11 SUNSET LANEBRIDGETON NJ 08302
+💥 1070 KENNEDY BOULEVARD APT 2ABAYONNE NJ 07002
+💥 65 LINCOLN PLACEGARFIELD NJ 07026-1819
+✅ 2041 Garden RoadMays Landing NJ 08330
+💥 
+💥 1607 S STILES STREETLINDEN NJ 07036
+✅ 420 NORTH 5TH STREETMILLVILLE NJ 08332
+✅ 150 CLERK STREETJERSEY CITY NJ 07305
+✅ 18 East Woodland AvenueAbsecon NJ 08201
+💥 7-06 5TH STREETFAIR LAWN NJ 07410
+✅ 1014 THORN STREETRAHWAY NJ 07065
+💥 10 Jupiter StreetMiddletown NJ 07748
+💥 512 PATERSON PLANK ROADJERSEY CITY NJ 07307
+💥 949 CARMEL ROADMILLVILLE NJ 08332
+💥 175 EAST CRESCENT AVENUEALLENDALE NJ 07401
+✅ 5 North 4th StreetPleasantville NJ 08232
+✅ 571 Hopping RoadMiddletown NJ 07748
+💥 1740 HARMON COVE TOWERSWITH A MAILING ADDRESS OF 1740 HARMON TOWERSSECAUCUS NJ 07094
+💥 924 EAST HENRY STREETLINDEN NJ 07036
+💥 112 WEST SUMMIT STREETVINELAND NJ 08360
+💥 100 South North Carolina AvenueAtlantic City NJ 08401
+💥 55-57 9TH STREETAKA 55 9TH STREET #57NORTH ARLINGTON NJ 07031
+💥 55 Spring RoadMillstone NJ 08510
+💥 2117 WEST OAK ROADVINELAND NJ 08360
+💥 220 W MUNSELL AVENUELINDEN NJ 07036
+✅ 508 DAVIS STREETKEARNY NJ 07032
+💥 239 MOUNTAIN ROADENGLEWOOD NJ 07631
+💥 100 South North Carolina AvenueAtlantic City NJ 08401
+💥 771 CARMEL ROADMILLVILLE NJ 08332
+💥 227 Walling PlaceMiddletown NJ 07748
+💥 2093 MELROSE PARKWAYUNION NJ 07083
+✅ 666 CHESTNUT PLACESECAUCUS NJ 07094
+✅ 701 PASCACK ROADTOWNSHIP OF WASHINGTON NJ 07675
+💥 100 South North Carolina AvenueAtlantic City NJ 08401
+💥 765 Harmony RoadMiddletown NJ 07748
+💥 1066 EAST ELIZABETH AVENUELINDEN NJ 07036
+💥 2910 NORTH WEST AVENUEVINELAND NJ 08360
+💥 101-25 EAST SHEARWATER COURT (UNIT 2E, BUILDING 101)JERSEY CITY NJ 07305
+💥 508 STUYVESANT AVENUERUTHERFORD NJ 07070
+💥 100 South North Carolina AvenueAtlantic City NJ 08401
+💥 37 TAYLOR AVENUEMILMAY (MAURICE RIVER TWP) NJ 08340
+💥 26 Lorenzo CourtMatawan NJ 07747
+💥 157 BALTIMORE AVENUEHILLSIDE NJ 07205
+💥 100 South North Carolina AvenueAtlantic City NJ 08401
+✅ 330 MADISON STREET UNIT 5HOBOKEN NJ 07030
+💥 584 COLUMBIA STREETNEW MILFORD NJ 07646
+💥 100 South North Carolina AvenueAtlantic City NJ 08401
+✅ 701 SILVER RUN ROADMILLVILLE NJ 08332
+💥 759 Palmer AvenueHolmdel NJ 07733
+💥 933 ANNA STREETELIZABETH NJ 07201
+💥 5 BUTTERNUT STREETJERSEY CITY NJ 07305
+💥 505 MARLBORO ROADWOOD RIDGE NJ 07075
+✅ 129 EWING STREETBRIDGETON NJ 08302
+💥 636 WESTMINSTER AVENUEELIZABETH NJ 07208
+💥 100 South North Carolina AvenueAtlantic City NJ 08401
+💥 8 Scobeyville DriveColts Neck NJ 07722
+💥 50 DEY STREET #225JERSEY CITY NJ 07306
+💥 83 SUSSEX STREETHACKENSACK NJ 07601
+✅ 1233 MAIN STREETAKA 1233 WEST MAIN STREETMILLVILLE NJ 08332
+💥 382 BOYNTON AVENUECLARK NJ 07066
+💥 15 Groendyke CircleMillstone NJ 08535
+💥 608 BRAMHALL AVENUE UNIT 1-LLJERSEY CITY NJ 07304
+✅ 3501 Ventnor AvenueD-1Atlantic City NJ 08401
+💥 871 PARK AVENUERIVER EDGE NJ 07661-2434
+💥 712 80TH STREETNORTH BERGEN NJ 07047
+💥 1517 FAIRTON ROADMILLVILLE NJ 08332
+✅ 27 Henry StreetFreehold NJ 07728
+💥 undefined
+💥 688 W FRONT STREETPLAINFIELD NJ 07060
+✅ 341 EAST COLUMBIA AVENUEUNIT BPALISADES PARK NJ 07650
+💥 1734 ALMOND ROADVINELAND NJ 08360
+💥 493 LIBERTY AVENUEJERSEY CITY NJ 07307
+💥 138 Montrose Rd  Colts Neck NJ 07722
+💥 291 LA GRANDE AVENUEFANWOOD NJ 07023
+💥 undefined
+💥 408 SUTTON AVENUEHACKENSACK NJ 07601
+💥 483 BERGEN AVENUEJERSEY CITY NJ 07304
+💥 22 HUSTED STATION ROADBRIDGETON NJ 08302
+✅ 322 Crawford StreetShrewsbury NJ 07724
+💥 44-48 EAST HAZELWOOD AVENUERAHWAY NJ 07065
+💥 undefined
+💥 171 LAFAYETTE AVENUEDUMONT NJ 07628
+💥 1719 JOHN F KENNEDY BOULEVARDJERSEY CITY NJ 07305
+✅ 18 KEMBLE AVENUEMILLVILLE NJ 08332
+💥 855 SALEM AVENUEHILLSIDE NJ 07205
+💥 2387 Church StreetWall Township NJ 08736
+💥 410 PIERMONT ROADCLOSTER NJ 07624
+💥 undefined
+💥 238 Navesink RoadMiddletown NJ 07701
+💥 1209 8TH STREETNORTH BERGEN NJ 07047
+💥 110 W 16TH STREETLINDEN NJ 07036
+💥 1319 HEIGHTS PLACEVINELAND NJ 08360
+💥 70 BRUNO STREETMOONACHIE NJ 07074
+💥 undefined
+💥 347 EDGEWOOD ROADLINDEN NJ 07036
+💥 48 SHERMAN PLACERIDGEWOOD NJ 07450
+💥 80 LEESBURG BELLEPLAIN ROADMAURICE RIVER TOWNSHIP NJ 08327
+✅ 1227 HILLSIDE PLACENORTH BERGEN NJ 07047
+💥 undefined
+💥 463 Shady LaneHowell NJ 07731
+💥 undefined
+💥 153 E JERSEY STREETELIZABETH NJ 07206
+💥 3014 MARTIN AVENUEMILLVILLE NJ 08332
+✅ 80 Parkway DriveUnit DFreehold NJ 07728
+💥 111 BOTANY STREETGARFIELD NJ 07026
+💥 333 FORREST STREETJERSEY CITY NJ 07304
+✅ 518 KENNEDY BOULEVARDBAYONNE NJ 07002
+✅ 510 Ocean AvenueUnit #8Long Branch NJ 07740
+💥 720 WEST FRONT STREETPLAINFIELD NJ 07060
+💥 131 CLINTON PLACEUNIT 201HACKENSACK NJ 07601
+💥 138 NEW STREETBRIDGETON NJ 08302
+💥 undefined
+💥 27 LENAPE LANEOAKLAND NJ 07436
+✅ 1219 14TH STREETNORTH BERGEN NJ 07047
+💥 37 Dudley StreetLong Branch NJ 07740
+💥 837-839 E JERSEY STREETwith a mailing addres 837 EAST JERSEY STREETELIZABETH NJ 07201
+💥 821-823 SUMMIT AVENUEUNION CITY NJ 07087
+💥 365 GRACE AVENUEGARFIELD NJ 07026
+✅ 712 OXFORD STREETVINELAND NJ 08360
+💥 undefined
+💥 312 Harmony RoadMiddletown NJ 07748
+💥 42 BLUE RIDGE CIRCLEPLAINFIELD NJ 07060
+💥 202 BERRY STREETHACKENSACK NJ 07601
+💥 undefined
+✅ 47 OLD DEERFIELD PIKEUPPER DEERFIELD TOWNSHIP NJ 08302
+✅ 138 WEST 28TH STREETBAYONNE NJ 07002
+✅ 1543 Harbor RoadManasquan NJ 08736
+💥 228 71ST STREET, UNIT 1GUTTENBERG NJ 07093
+💥 2037 GLESS AVENUEUNION NJ 07083
+💥 undefined
+💥 860 RIVERVALE ROADRIVER VALE NJ 07675
+💥 16 YORK STREETBRIDGETON NJ 08302
+💥 101 Lincoln AvenueLong Branch NJ 07740
+💥 204 COVE ROADNEWPORT NJ 08345
+✅ 911-13 PLAINFIELD AVENUEPLAINFIELD NJ 07060
+💥 78 WOODLAWN AVENUEJERSEY CITY NJ 07305
+💥 undefined
+💥 342 SCHRAALENBURGH ROADHAWORTH NJ 07641
+💥 3106 Hurley Pond RoadWall NJ 07719
+💥 124 WEST 10TH STREET,BAYONNE NJ 07002
+💥 915 BARBARA TERRACEMILLVILLE NJ 08332
+💥 undefined
+💥 387 CAMBRIDGE DRIVEUNIT 387RAMSEY NJ 07446
+💥 311 WEST THIRD AVENUEROSELLE NJ 07203
+💥 1 Channel Drive, Unit 705Monmouth Beach NJ 07750
+✅ 1024 NORTH STREETMILLVILLE NJ
+✅ 661 LINDEN AVENUERAHWAY NJ 07065
+💥 41 ANDREW STREETBAYONNE NJ 07002
+💥 undefined
+💥 422 Ocean Boulevard N. Unit 5HLong Branch NJ 07740
+💥 441 ORCHARD STREETENGLEWOOD NJ 07631
+💥 1497 BURNET AVENUEUNION NJ 07083
+✅ 427 FULTON STREETMILLVILLE NJ 08332
+💥 6 JUNIPER STREETDUMONT NJ 07628
+💥 undefined
+💥 1427 46TH STREETNORTH BERGEN NJ 07047
+💥 2 Elm CourtMiddletown NJ 07748
+💥 1025 CHANDLER AVENUEROSELLE NJ 07203
+💥 11 FAIRWAY COURTCRESSKILL NJ 07626
+✅ 981 WEST CHESTNUT AVENUEVINELAND NJ 08360
+💥 undefined
+✅ 521 55TH STREETWEST NEW YORK NJ 07093
+💥 769 Cliffwood AvenueAberdeen NJ 07735
+✅ 524 BARRETTS RUN ROADBRIDGETON NJ 08302
+💥 412 E 10TH AVENUEROSELLE NJ 07203
+💥 33 PULASKI PLACEAKA 33-35 PULASKI PLACEHACKENSACK NJ 07601
+💥 115 DONALDSON PLACELINDEN NJ 07036
+💥 600 Highland AvenueNeptune NJ 07753
+💥 undefined
+💥 568-570A AVENUE CA/K/A 570A AVENUE CBAYONNE NJ 07002
+✅ 105 YELKCA AVENUEVINELAND NJ 08360
+💥 69 LINCOLN AVENUEELMWOOD PARK NJ 07407
+💥 708 Heritage CourtNeptune NJ 07753
+💥 105 PERSHING AVENUEROSELLE PARK NJ 07204
+💥 4517 HARRISON PLACEUNION CITY NJ 07087
+💥 undefined
+✅ 34 INSTITUTE PLACEBRIDGETON NJ 08302
+💥 360 LIBERTY ROADENGLEWOOD NJ 07631
+💥 334-336 HALLADAY STREETJERSEY CITY NJ 07304
+✅ 111 SOUTH GLENWOOD ROADFANWOOD NJ 07023
+💥 undefined
+💥 102 Morningside AvenueUnion Beach NJ 07735
+💥 170 PORT ELIZABETH CUMBERLAND ROADAKA 170 CUMBERLAND ROAD (AKA PRT ELIZA-CUMBERLAND AND PORT ELIZABETH-CUMBERLAND ROAD)PORT ELIZABETH (TOWNSHIP OF MAURICE RIVER) NJ 08348
+💥 242 Main StreetPort Monmouth NJ 07758
+✅ 355 SHEPPARDS MILL ROADHOPEWELL TOWNSHIP NJ 08302
+💥 104 HORIZON TERRACEHILLSDALE NJ 07642
+💥 undefined
+💥 107 GRAND PLACEKEARNY NJ 07032
+💥 549 MYRTLE  AVENUEGARWOOD NJ 07027
+💥 1330 CLINTON STREET UNIT #608(A/K/A 1317 GRAND STREET)HOBOKEN NJ 07030
+💥 1367 IROQUOIS COURTVINELAND NJ 08361
+💥 undefined
+💥 488 DEWEY AVENUESADDLE BROOK NJ 07663
+💥 212 Sylvania AvenueAvon-By-The-Sea NJ
+✅ 2 CARDINAL ROADMILLVILLE NJ 08332
+💥 634 GARFIELD AVENUEJERSEY CITY NJ 07305
+💥 undefined
+💥 254 1ST AVENUEELIZABETH NJ 07206
+💥 148 12TH STREETWOOD RIDGE NJ 07075
+💥 525 LEO STREETHILLSIDE NJ 07205
+💥 undefined
+💥 47 Old Orchard LaneOcean NJ 07712
+💥 110 NORTH 11TH STREETMILLVILLE NJ 08332
+💥 29 VAN REYPEN STREETJERSEY CITY NJ 07306-4520
+✅ 25 LONG AVENUEHILLSIDE NJ 07205
+💥 1671 FIOCCHI DRIVEVINELAND NJ 08360
+💥 undefined
+💥 26 CARTER STREETNORWOOD NJ 07648
+💥 15 Princeton AvenueNeptune NJ 07753
+💥 250 MAPLE STREETKEARNY NJ 07032
+💥 56 BEECH STREETWESTWOOD NJ 07675
+💥 627 S ORCHARD RDVINELAND NJ 08360
+💥 undefined
+💥 501 CENTENNIAL AVENUECRANFORD NJ 07016
+💥 22 Phyllis RoadFreehold NJ 07728
+💥 undefined
+💥 54 KEASLER AVENUELODI NJ 07644
+💥 22 E 4TH STREETBAYONNE NJ 07002
+💥 404 HENDERSON AVENUEMILLVILLE NJ 08332
+💥 280 KEARNY AVENUEKEARNY NJ 07032
+💥 First StreetHazlet NJ 07730
+💥 1388 BELLEVIEW AVENUEPLAINFIELD NJ 07060
+💥 undefined
+💥 177 LARCH AVENUETEANECK NJ 07666
+💥 61 CHARLES STREETALLENDALE NJ 07401
+✅ 918 ANNA STREETELIZABETH NJ 07201
+✅ 552 BARRETTS RUN ROADBRIDGETON (HOPEWELL TWP) NJ 08302
+💥 undefined
+💥 1474 Garrett DriveWall Township NJ 07719
+💥 36 WEST 14TH STREET UNIT 103BAYONNE NJ 07002
+✅ 55 AVON PLACEVINELAND NJ 08360
+💥 2085 OLIVER STREETRAHWAY NJ 07065
+💥 312 WEST PALISADE AVENUEENGLEWOOD NJ 07631
+💥 766 SOUTH VALLEY AVENUEVINELAND NJ 08360
+💥 15 ENTERPRISE CTALSO KNOWN AS 15 ENTERPRISE COURT #210JERSEY CITY NJ 07305
+💥 49 Fourth StreetHighlands NJ 07732
+💥 undefined
+💥 211 VOORHIS AVENUENEW MILFORD NJ 07646
+💥 338-340 BERGEN STREETPLAINFIELD NJ 07063
+💥 153 CHESTNUT AVENUEBOGOTA NJ 07603
+💥 2522 Algonkin TrailWall Township NJ 08736
+✅ 539 CARMEL ROADMILLVILLE NJ 08332
+💥 9060 PALISADE AVENUE UNIT 512NORTH BERGEN NJ 07047
+💥 
+💥 undefined
+💥 2432 SHAMROCK LANEMILLVILLE NJ 08332
+💥 51-53 MACARTHUR AVENUEMAILING ADDRESS 53 MACARTHUR AVENUEGARFIELD NJ 07026
+💥 689 KENNEDY BOULEVARDBAYONNE NJ 07002
+💥 44 Lexington RoadHowell NJ 07731
+💥 48-50 ANDOVER AVENUEPLAINFIELD NJ 07062
+💥 undefined
+✅ 542 BROADLAWN TERRACEVINELAND NJ 08360
+💥 3624 CHARLES COURTNORTH BERGEN NJ 07047
+✅ 516 EAST OAK STREETMILLVILLE NJ 08332
+💥 123 Sweetmans LaneManalapan NJ 07726
+💥 545 LEXINGTON AVENUECRANFORD NJ 07016
+💥 178 LEE STREETELMWOOD PARK NJ 07407
+💥 undefined
+💥 125 E Mount AvenueAtlantic Highlands NJ 07716
+💥 647-653 KENNEDY BOULEVARDMAILING ADDRESS: 647-651 BOULEVARD #201BAYONNE NJ 07002
+💥 32 HILLSIDE AVENUEBERGENFIELD NJ 07621
+💥 36 CONCORD PLACEUNION NJ 07083
+💥 undefined
+💥 214 ANGELIQUE STREETWEEHAWKEN NJ 07086
+💥 265 Highland AvenueLong Branch NJ 07740
+💥 undefined
+💥 657 WINCHESTER AVENUEUNION NJ 07083
+💥 34 BERDAN STREETROCHELLE PARK NJ 07662
+💥 31 20TH STREETBAYONNE NJ 07002
+💥 621 Lorillard AvenueUnion Beach NJ 07735
+💥 22 BROAD STREETCRANFORD NJ 07016
+💥 193 BARTHOLDI AVENUEJERSEY CITY NJ 07305
+💥 undefined
+💥 2465 1ST STREETFORT LEE NJ 07024
+💥 211 Walnut DriveMorganville NJ 07751
+💥 341 EAST COLUMBIA AVENUEUNIT BPALISADES PARK NJ 07650
+💥 undefined
+💥 94 GRAHAM STREETJERSEY CITY NJ 07307
+💥 940 KNOLLWOOD COURTPLAINFIELD NJ 07060
+💥 32 JORDAN AVENUEWALLINGTON NJ 07057
+💥 43 BERGEN AVENUEJERSEY CITY NJ 07305
+💥 7 Seabreeze SquareFreehold NJ 07728
+💥 undefined
+💥 308 AMSTERDAM AVENUEROSELLE NJ 07203
+💥 171 WINFIELD AVENUEJERSEY CITY NJ 07305
+💥 363 VESTA COURTRIDGEWOOD NJ 07450
+💥 228 70TH STREET,GUTTENBERG NJ 07093
+💥 10 Sunrise CircleHolmdel NJ 07733
+💥 30 CHARLES STREETLITTLE FERRY NJ 07643
+💥 undefined
+✅ 53 MARTHA AVENUEELMWOOD PARK NJ 07407
+💥 2712 SUMMIT AVENUEUNION CITY NJ 07087
+✅ 1238-B NORTH BROAD STREETHILLSIDE NJ 07205
+💥 170 Palisade DriveFreehold NJ 07728
+💥 undefined
+💥 65 MERTZ  AVENUEHILLSIDE NJ 07205
+💥 286 SUMMIT AVENUEJERSEY CITY NJ 07306
+💥 363 OAK AVENUERIVER EDGE NJ 07661
+✅ 801 Prospect AvenueUnion Beach NJ 07735
+✅ 215 48TH STREET UNIT 4UNION CITY NJ 07087
+💥 220-222 HIGH STREETELIZABETH NJ 07202
+💥 91 FAIRMOUNT AVENUEHACKENSACK NJ 07601
+💥 1301 1st AvenueAsbury Park NJ 07712
+💥 225 5TH STREETRIDGEFIELD PARK NJ 07660
+💥 undefined
+💥 732-42 BELVIDERE AVENUEPLAINFIELD NJ 07062
+💥 330 MONTGOMERY STREETJERSEY CITY NJ 07302
+💥 67 WOLCOTT ROADDUMONT NJ 07628
+💥 undefined
+💥 45 Viola AvenueMiddletown NJ 07737
+💥 624-628 ROUTE 22 EASTHILLSIDE NJ 07205
+💥 undefined
+💥 10 Alba LaneWest Long Branch NJ 07764
+💥 212 LINDEN AVENUEJERSEY CITY NJ 07305
+💥 1287-1303 EAST 2ND STREETPLAINFIELD NJ 07060
+💥 28 SPRUCE RUNUNIT 28, BUILDING ERAMSEY NJ 07446
+💥 undefined
+💥 7 Bridle PathTinton Falls NJ 07753
+💥 541 WESTFIELD ROADSCOTCH PLAINS NJ 07076
+💥 undefined
+💥 310 PASSAIC AVENUECARLSTADT NJ 07072
+💥 2920 West Bangs AvenueNeptune NJ 07753
+✅ 320 PARKWAY DRIVECLARK NJ 07066
+💥 undefined
+💥 2345 LINWOOD AVENUEUNIT LGFORT LEE NJ 07024
+✅ 330 Broad StreetEatontown NJ 07724
+💥 1321-23 MARLBOROUGH AVENUEPLAINFIELD NJ 07060
+💥 undefined
+💥 708 WINDSWEPT LANEFRANKLIN LAKES NJ 07417
+💥 1805 Logan RoadOcean Twp. NJ 07712
+💥 213 DORER AVENUEHILLSIDE NJ 07205
+💥 undefined
+💥 3 Strauss DriveShrewsbury NJ 07702
+💥 84 SAINT LAURENT DRIVECLARK NJ 07066
+💥 732 TERRACE HEIGHTSWYCKOFF NJ 07481
+💥 undefined
+💥 425 Iron Bridge RoadFreehold Twp NJ 07728
+💥 710 SPRUCE STREETROSELLE NJ 07203
+💥 80 MORNINGSIDE AVENUECRESSKILL NJ 07626
+💥 47 Seadrift AvenueHighlands NJ 07732
+💥 662 KENT AVENUETEANECK NJ 07666
+💥 418 E 5TH AVENUEROSELLE NJ 07203
+💥 undefined
+💥 5 Windsor CourtHazlet NJ 07730
+💥 174 LINCOLN ROADWESTFIELD NJ 07090
+✅ 43 PEEK STREETROCHELLE PARK NJ 07662
+💥 45 Bloomfield RoadManalapan NJ 07726
+💥 undefined
+💥 1111-1115 EAST JERSEY STREETELIZABETH NJ 07201
+✅ 300 WINSTON DRIVEAPT L01CLIFFSIDE PARK NJ 07010
+💥 61 Manor ParkwayLincroft NJ 07738
+💥 undefined
+💥 836 3RD STREETPLAINFIELD NJ 07062
+💥 38 VAN VALKENBURGH AVENUEBERGENFIELD NJ 07621
+💥 295 Oakley AvenueLong Branch NJ 07740
+💥 undefined
+💥 30 COLE STREETELMWOOD PARK NJ 07407
+💥 345 SECOND AVENUEGARWOOD NJ 07027
+💥 66 Potter RoadFreehold NJ 07728
+💥 undefined
+💥 650 Woodgate AvenueLong Branch NJ 07740
+💥 67 EDGEWATER ROADCLIFFSIDE PARK NJ 07010
+💥 1580 SUMMIT AVENUEHILLSIDE NJ 07205
+💥 undefined
+💥 31 Heritage DriveEnglishtown NJ 07726
+💥 250 BLANCH AVENUEHARRINGTON PARK NJ 07640
+💥 undefined
+💥 2091 Florence AvenueHazlet NJ 07730
+💥 1 SHORT STREETDUMONT NJ 07628
+💥 undefined
+💥 1-5 Atlanta CtFreehold NJ 07728
+💥 774 BERGEN BOULEVARDRIDGEFIELD NJ 07657
+💥 undefined
+💥 2 Troon RoadTinton Falls NJ 07753
+💥 206 COLUMBIA STREETWOOD RIDGE NJ 07075
+💥 undefined
+✅ 22 Jacob DriveHowell NJ 07731
+💥 59 HILLE PLACERIDGEFIELD PARK NJ 07660
+💥 undefined
+✅ 154 Atlantic AvenueLong Branch NJ 07740
+💥 137 MORNINGSIDE LANEUNIT BPALISADES PARK NJ 07650
+💥 19 WOODWARD STREETSADDLE BROOK NJ 07663
+💥 14 Lernard RoadManalapan NJ 07726
+💥 undefined
+💥 3 Monmouth AvenueNorth Middletown NJ 07748
+💥 51 AUTUMN STREETLODI NJ 07644
+💥 undefined
+💥 90 Statesir PlaceMiddletown NJ 07701
+💥 4-46 BOYD AVENUEFAIR LAWN NJ 07410
+💥 undefined
+💥 201 Sunset AvenuePort Monmouth NJ 07758
+✅ 76 STANDISH ROADHILLSDALE NJ 07642
+💥 undefined
+💥 49 Deer WayManalapan NJ 07726
+💥 332 EAST MAIN STREETBERGENFIELD NJ 07621
+💥 undefined
+💥 105 Middletown RoadHolmdel NJ 07733
+💥 2345 LINWOOD AVENUE4BFORT LEE NJ 07024
+💥 undefined
+💥 7 Lisa DriveTinton Falls NJ 07712
+💥 180 MARLBORO ROADGLEN ROCK NJ 07452
+💥 undefined
+💥 200 Portland RoadUnit D-10Highlands NJ 07732
+💥 103 SYLVAN STREETRUTHERFORD NJ 07070
+✅ 10 East Ocean AvenueSea Bright NJ 07760
+💥 140 MOHAWK AVENUENORWOOD NJ 07648
+💥 undefined
+💥 33 Arbor DriveHowell NJ 07731
+💥 45 HORIZON COURTTOWNSHIP OF WASHINGTON NJ 07676
+💥 undefined
+💥 55 Wilson AvenueAberdeen NJ 07747
+💥 146 SUMMIT AVENUEHACKENSACK NJ 07601
+💥 undefined
+💥 126 Dock StreetUnion Beach NJ 07735
+💥 717 FIRST STREETLYNDHURST NJ 07071
+💥 undefined
+💥 1103 Creamery CourtFreehold NJ 07728
+💥 319 ORADELL AVENUEPARAMUS NJ 07652
+💥 undefined
+✅ 332 Crawford StreetShrewsbury NJ 07701
+✅ 36 GLEN AVENUE EAST(A/K/A GLEN AVENUE)HARRINGTON PARK NJ 07640
+💥 undefined
+✅ 414 Oak Tree RoadFreehold NJ 07728-8424
+💥 111 BROAD AVENUELEONIA NJ 07605
+💥 undefined
+💥 1 Richard CourtManalapan NJ 07726
+💥 277 GREAT SMOKEY LANEMAHWAH NJ 07430
+💥 undefined
+💥 622 Washington AvenueUnion Beach NJ 07735
+💥 7 HILLSIDE PLACENORTH ARLINGTON NJ 07031
+💥 undefined
+✅ 29 Crescent PlaceMatawan NJ 07747
+💥 217 GRAYSON PLACETEANECK NJ 07666
+💥 undefined
+💥 32 Sunset StreetKeansburg NJ 07734
+💥 15 PARKWAY COURTWASHINGTON TOWNSHIP NJ 07676
+💥 21 Thorne PlaceMiddletown NJ 07748
+💥 414 N MAPLE AVENUERIDGEWOOD NJ 07450
+💥 undefined
+💥 115 WILLOWBROOK COURTPARAMUS NJ 07652
+💥 1301 West Park AvenueTinton Falls NJ 07712
+💥 undefined
+💥 2 Chesley CourtMarlboro NJ 07751
+💥 36 PULASKI AVENUEWALLINGTON NJ 07057
+💥 undefined
+✅ 104 Cedar DriveColts Neck NJ 07722
+✅ 72 WESTMINSTER AVENUESADDLE BROOK NJ 07663
+💥 undefined
+💥 119 Freneau AvenueMatawan NJ 07747
+💥 62 EAST CRESCENT AVENUEMAHWAH NJ 07430
+💥 undefined
+💥 25 Spaulding PlaceMonmouth Beach NJ 07750
+💥 10 Sunrise CircleHolmdel NJ 07733
+💥 154 SPLIT ROCK ROADPARAMUS NJ 07652
+💥 undefined
+✅ 18 Hearthstone DriveManalapan NJ 07726
+💥 6 FAIRFIELD COURTDEMAREST NJ 07627
+💥 undefined
+💥 
+💥 87 WESTERVELT PLACETEANECK NJ 07666
+💥 undefined
+💥 11 Hurley Street #5Keyport NJ 07735
+💥 20 HARCOURT AVENUEBERGENFIELD NJ 07621
+💥 undefined
+💥 145 SLOCUM AVENUEENGLEWOOD NJ 07631
+💥 118 Main AvenueNeptune NJ 07756
+💥 undefined
+✅ 29 Jared DriveManalapan NJ 07726
+💥 247 HILLCREST AVENUEWOOD RIDGE NJ 07075
+💥 undefined
+💥 13 Redwood DriveEatontown NJ 07724
+💥 2 COLE COURTDUMONT NJ 07628
+💥 8 Scobeyville DriveColts Neck NJ 07722
+💥 117 MIDWOOD ROADGLEN ROCK NJ 07452
+✅ 26 Alameda CourtShrewsbury NJ 07702
+💥 272 MOUNT PLEASANT AVENUEWALLINGTON NJ 07057
+💥 611 Mill pond WayEatontown NJ 07724
+💥 17 CANDLESTICK LANEUPPER SADDLE RIVER NJ 07458
+💥 8 JOHN DOW AVENUEWALDWICK NJ 07463
+✅ 27 Helen AvenueFreehold NJ 07728
+💥 9 Flomar AvenueLeonardo NJ 07737
+💥 311 HAVEN ROADFRANKLIN LAKES NJ 07417
+💥 33 Denise CourtManalapan NJ 07726
+💥 180 TENNEY AVENUERIVER EDGE NJ 07661
+💥 317-325 Bath AvenueUnit 43Long Branch NJ 07740
+💥 578 COLONIAL ROADRIVER VALE NJ 07675
+✅ Charlotte PlaceMonmouth Beach NJ 07750
+💥 22-35 RADBURN ROADFAIR LAWN NJ 07410
+💥 606 Stamford DriveNeptune NJ 07753
+💥 14 Mountainview CourtMillstone NJ 08510
+💥 752 Hulses Corner RoadHowell NJ 07731
+💥 14 Brandywine LaneColts Neck NJ 07722
+💥 3402 Shoreline DriveAllenwood (Wall Township) NJ 08720
+💥 11 Berkley PlaceColts Neck NJ 07722
+💥 50 East Fifth StreetHowell NJ 07731
+💥 644 Sydney AvenueUnion Beach NJ 07735
+✅ 77 Overlook WayUnit BManalapan NJ 07726
+✅ 554 Clubhouse DriveMiddletown NJ 07748
+💥 11 Liberty RoadMarlboro NJ 07746
+💥 141 Micki DriveMarlboro NJ 07751
+💥 66 Bonnie DriveManalapan NJ 07726
+💥 75 Ohio AvenueMiddletown NJ 07748
+✅ 119 Chestnut AvenueAtlantic Highlands NJ 07716
+[
+  {
+    "rescheduleCount": 0,
+    "detailsLink": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=1305381602",
+    "categoryLink": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=6",
+    "salesDate": "6/19/2024",
+    "upsetPrice": "$167,343.07",
+    "address": "801 WOODLAND AVENUEMILLVILLE NJ 08332",
+    "upsetFloat": 167343.07,
+    "judgementFloat": null
+  },
+  {
+    "rescheduleCount": 0,
+    "detailsLink": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=1305383802",
+    "categoryLink": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+    "salesDate": "6/17/2024",
+    "upsetPrice": "$117,534.82",
+    "address": "460 Netherwood DriveKeyport NJ 07735",
+    "upsetFloat": 117534.82,
+    "judgementFloat": null
+  },
+  {
+    "rescheduleCount": 0,
+    "detailsLink": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=1305394639",
+    "categoryLink": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+    "salesDate": "6/13/2024",
+    "upsetPrice": "$90,316.00",
+    "address": "7 Thoroughbred RoadEgg Harbor Township NJ 08234",
+    "upsetFloat": 90316,
+    "judgementFloat": null
+  },
+  {
+    "rescheduleCount": 0,
+    "detailsLink": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=1305395003",
+    "categoryLink": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+    "salesDate": "6/13/2024",
+    "upsetPrice": "$113,813.11",
+    "address": "3083 Ivins AvenueEgg Harbor Township NJ 08234",
+    "upsetFloat": 113813.11,
+    "judgementFloat": null
+  },
+  {
+    "rescheduleCount": 0,
+    "detailsLink": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=1305381758",
+    "categoryLink": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=6",
+    "salesDate": "6/19/2024",
+    "upsetPrice": "$101,419.75",
+    "address": "207 FENIMORE STVINELAND NJ 08360",
+    "upsetFloat": 101419.75,
+    "judgementFloat": null
+  },
+  {
+    "rescheduleCount": 0,
+    "detailsLink": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=1305373846",
+    "categoryLink": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=15",
+    "salesDate": "6/12/2024",
+    "upsetPrice": "$83,868.24",
+    "address": "308 BERCKMAN STREETPLAINFIELD NJ 07062",
+    "upsetFloat": 83868.24,
+    "judgementFloat": null
+  },
+  {
+    "rescheduleCount": 0,
+    "detailsLink": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=1305393644",
+    "categoryLink": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+    "salesDate": "6/13/2024",
+    "upsetPrice": "$134,701.06",
+    "address": "147 Treetop LaneEgg Harbor Township NJ 08234",
+    "upsetFloat": 134701.06,
+    "judgementFloat": null
+  },
+  {
+    "rescheduleCount": 0,
+    "detailsLink": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=1305383843",
+    "categoryLink": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+    "salesDate": "6/17/2024",
+    "upsetPrice": "$68,207.16",
+    "address": "431 South Laurel AvenueHazlet NJ 07730",
+    "upsetFloat": 68207.16,
+    "judgementFloat": null
+  },
+  {
+    "rescheduleCount": 0,
+    "detailsLink": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=1305381743",
+    "categoryLink": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=6",
+    "salesDate": "6/19/2024",
+    "upsetPrice": "$160,099.61",
+    "address": "606 F STREETMILLVILLE NJ 08332",
+    "upsetFloat": 160099.61,
+    "judgementFloat": null
+  },
+  {
+    "rescheduleCount": 0,
+    "detailsLink": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=1305381746",
+    "categoryLink": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=6",
+    "salesDate": "6/19/2024",
+    "upsetPrice": "$159,754.64",
+    "address": "503 IRELAND AVENUEMILLVILLE NJ 08332",
+    "upsetFloat": 159754.64,
+    "judgementFloat": null
+  },
+  {
+    "rescheduleCount": 0,
+    "detailsLink": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=1305383863",
+    "categoryLink": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+    "salesDate": "6/17/2024",
+    "upsetPrice": "$163,234.10",
+    "address": "1851 Carmerville RoadWall NJ 07719",
+    "upsetFloat": 163234.1,
+    "judgementFloat": null
+  },
+  {
+    "rescheduleCount": 0,
+    "detailsLink": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=1305381751",
+    "categoryLink": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=6",
+    "salesDate": "6/19/2024",
+    "upsetPrice": "$131,571.87",
+    "address": "405 GOOSEBERRY ROADMILLVILLE NJ 08332",
+    "upsetFloat": 131571.87,
+    "judgementFloat": null
+  },
+  {
+    "rescheduleCount": 0,
+    "detailsLink": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=1305373850",
+    "categoryLink": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=15",
+    "salesDate": "6/19/2024",
+    "upsetPrice": "$90,725.40",
+    "address": "1535 MYRTLE AVENUEPLAINFIELD NJ 07060",
+    "upsetFloat": 90725.4,
+    "judgementFloat": null
+  },
+  {
+    "rescheduleCount": 0,
+    "detailsLink": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=1305383285",
+    "categoryLink": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
+    "salesDate": "6/20/2024",
+    "upsetPrice": "$88,065.75",
+    "address": "64 BOSTWICK AVENUEAPT 2JERSEY CITY NJ 07305",
+    "upsetFloat": 88065.75,
+    "judgementFloat": null
+  },
+  {
+    "rescheduleCount": 0,
+    "detailsLink": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=1305381753",
+    "categoryLink": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=6",
+    "salesDate": "6/19/2024",
+    "upsetPrice": "$95,438.33",
+    "address": "27 NORTH LAKESHORE DRIVEMILLVILLE NJ 08332",
+    "upsetFloat": 95438.33,
+    "judgementFloat": null
+  },
+  {
+    "rescheduleCount": 0,
+    "detailsLink": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=1305373826",
+    "categoryLink": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=15",
+    "salesDate": "6/19/2024",
+    "upsetPrice": "$128,919.26",
+    "address": "760 DRAKE AVENUEROSELLE NJ 07203",
+    "upsetFloat": 128919.26,
+    "judgementFloat": null
+  },
+  {
+    "rescheduleCount": 0,
+    "detailsLink": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=1305373763",
+    "categoryLink": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=15",
+    "salesDate": "6/19/2024",
+    "upsetPrice": "$149,922.79",
+    "address": "75 LAUREL AVENUEUNION NJ 07083",
+    "upsetFloat": 149922.79,
+    "judgementFloat": null
+  },
+  {
+    "rescheduleCount": 0,
+    "detailsLink": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=1305383224",
+    "categoryLink": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
+    "salesDate": "6/20/2024",
+    "upsetPrice": "$118,278.51",
+    "address": "600 SOUTH FIFTH STREETAND 600 FRANK RODGERS BOULEVARD SOUTHHARRISON NJ 07029",
+    "upsetFloat": 118278.51,
+    "judgementFloat": null
+  },
+  {
+    "rescheduleCount": 0,
+    "detailsLink": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=1305373793",
+    "categoryLink": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=15",
+    "salesDate": "6/19/2024",
+    "upsetPrice": "$149,518.56",
+    "address": "1451 BOND STREETHILLSIDE NJ 07205",
+    "upsetFloat": 149518.56,
+    "judgementFloat": null
+  },
+  {
+    "rescheduleCount": 0,
+    "detailsLink": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=1305383271",
+    "categoryLink": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
+    "salesDate": "6/20/2024",
+    "upsetPrice": "$122,713.22",
+    "address": "155.5 ARLINGTON AVENUEA/K/A 155 A ARLINGTON AVENUEJERSEY CITY NJ 07305",
+    "upsetFloat": 122713.22,
+    "judgementFloat": null
+  },
+  {
+    "rescheduleCount": 0,
+    "detailsLink": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=1305382825",
+    "categoryLink": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=7",
+    "salesDate": "6/14/2024",
+    "upsetPrice": "$101,886.75",
+    "address": "101 WINDING CREEKOLD TAPPAN NJ 07675",
+    "upsetFloat": 101886.75,
+    "judgementFloat": null
+  },
+  {
+    "rescheduleCount": 0,
+    "detailsLink": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=1305394561",
+    "categoryLink": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+    "salesDate": "6/20/2024",
+    "upsetPrice": "$147,326.24",
+    "address": "18 East Woodland AvenueAbsecon NJ 08201",
+    "upsetFloat": 147326.24,
+    "judgementFloat": null
+  },
+  {
+    "rescheduleCount": 0,
+    "detailsLink": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=1305373797",
+    "categoryLink": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=15",
+    "salesDate": "6/19/2024",
+    "upsetPrice": "$139,802.34",
+    "address": "1014 THORN STREETRAHWAY NJ 07065",
+    "upsetFloat": 139802.34,
+    "judgementFloat": null
+  },
+  {
+    "rescheduleCount": 0,
+    "detailsLink": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=1305394431",
+    "categoryLink": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+    "salesDate": "6/27/2024",
+    "upsetPrice": "$98,979.80",
+    "address": "5 North 4th StreetPleasantville NJ 08232",
+    "upsetFloat": 98979.8,
+    "judgementFloat": null
+  },
+  {
+    "rescheduleCount": 0,
+    "detailsLink": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=1305383709",
+    "categoryLink": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+    "salesDate": "7/1/2024",
+    "upsetPrice": "$64,070.04",
+    "address": "571 Hopping RoadMiddletown NJ 07748",
+    "upsetFloat": 64070.04,
+    "judgementFloat": null
+  },
+  {
+    "rescheduleCount": 0,
+    "detailsLink": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=1305383295",
+    "categoryLink": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
+    "salesDate": "7/18/2024",
+    "upsetPrice": "$167,765.52",
+    "address": "508 DAVIS STREETKEARNY NJ 07032",
+    "upsetFloat": 167765.52,
+    "judgementFloat": null
+  },
+  {
+    "rescheduleCount": 0,
+    "detailsLink": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=1305383297",
+    "categoryLink": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
+    "salesDate": "7/18/2024",
+    "upsetPrice": "$107,938.87",
+    "address": "666 CHESTNUT PLACESECAUCUS NJ 07094",
+    "upsetFloat": 107938.87,
+    "judgementFloat": null
+  },
+  {
+    "rescheduleCount": 0,
+    "detailsLink": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=1305382832",
+    "categoryLink": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=7",
+    "salesDate": "6/28/2024",
+    "upsetPrice": "$65,362.79",
+    "address": "701 PASCACK ROADTOWNSHIP OF WASHINGTON NJ 07675",
+    "upsetFloat": 65362.79,
+    "judgementFloat": null
+  },
+  {
+    "rescheduleCount": 0,
+    "detailsLink": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=1305383301",
+    "categoryLink": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
+    "salesDate": "7/18/2024",
+    "upsetPrice": "$109,021.83",
+    "address": "330 MADISON STREET UNIT 5HOBOKEN NJ 07030",
+    "upsetFloat": 109021.83,
+    "judgementFloat": null
+  },
+  {
+    "rescheduleCount": 0,
+    "detailsLink": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=1305393849",
+    "categoryLink": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+    "salesDate": "6/27/2024",
+    "upsetPrice": "$163,502.34",
+    "address": "3501 Ventnor AvenueD-1Atlantic City NJ 08401",
+    "upsetFloat": 163502.34,
+    "judgementFloat": null
+  },
+  {
+    "rescheduleCount": 0,
+    "detailsLink": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=1305383827",
+    "categoryLink": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+    "salesDate": "7/1/2024",
+    "upsetPrice": "$109,715.02",
+    "address": "27 Henry StreetFreehold NJ 07728",
+    "upsetFloat": 109715.02,
+    "judgementFloat": null
+  },
+  {
+    "rescheduleCount": 0,
+    "detailsLink": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=1305382837",
+    "categoryLink": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=7",
+    "salesDate": "6/28/2024",
+    "upsetPrice": "$115,526.52",
+    "address": "341 EAST COLUMBIA AVENUEUNIT BPALISADES PARK NJ 07650",
+    "upsetFloat": 115526.52,
+    "judgementFloat": null
+  },
+  {
+    "rescheduleCount": 0,
+    "detailsLink": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=1305383928",
+    "categoryLink": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+    "salesDate": "7/1/2024",
+    "upsetPrice": "$68,082.81",
+    "address": "322 Crawford StreetShrewsbury NJ 07724",
+    "upsetFloat": 68082.81,
+    "judgementFloat": null
+  },
+  {
+    "rescheduleCount": 0,
+    "detailsLink": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=1305383255",
+    "categoryLink": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
+    "salesDate": "7/18/2024",
+    "upsetPrice": "$87,694.53",
+    "address": "1227 HILLSIDE PLACENORTH BERGEN NJ 07047",
+    "upsetFloat": 87694.53,
+    "judgementFloat": null
+  },
+  {
+    "rescheduleCount": 0,
+    "detailsLink": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=1305383796",
+    "categoryLink": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+    "salesDate": "7/1/2024",
+    "upsetPrice": "$167,423.61",
+    "address": "80 Parkway DriveUnit DFreehold NJ 07728",
+    "upsetFloat": 167423.61,
+    "judgementFloat": null
+  },
+  {
+    "rescheduleCount": 0,
+    "detailsLink": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=1305383249",
+    "categoryLink": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
+    "salesDate": "7/18/2024",
+    "upsetPrice": "$167,179.86",
+    "address": "518 KENNEDY BOULEVARDBAYONNE NJ 07002",
+    "upsetFloat": 167179.86,
+    "judgementFloat": null
+  },
+  {
+    "rescheduleCount": 0,
+    "detailsLink": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=1305383881",
+    "categoryLink": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+    "salesDate": "7/1/2024",
+    "upsetPrice": "$95,885.91",
+    "address": "510 Ocean AvenueUnit #8Long Branch NJ 07740",
+    "upsetFloat": 95885.91,
+    "judgementFloat": null
+  },
+  {
+    "rescheduleCount": 0,
+    "detailsLink": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=1305383226",
+    "categoryLink": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
+    "salesDate": "7/18/2024",
+    "upsetPrice": "$140,147.23",
+    "address": "1219 14TH STREETNORTH BERGEN NJ 07047",
+    "upsetFloat": 140147.23,
+    "judgementFloat": null
+  },
+  {
+    "rescheduleCount": 0,
+    "detailsLink": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=1305383874",
+    "categoryLink": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+    "salesDate": "7/1/2024",
+    "upsetPrice": "$62,765.50",
+    "address": "1543 Harbor RoadManasquan NJ 08736",
+    "upsetFloat": 62765.5,
+    "judgementFloat": null
+  },
+  {
+    "rescheduleCount": 0,
+    "detailsLink": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=1305373836",
+    "categoryLink": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=15",
+    "salesDate": "6/26/2024",
+    "upsetPrice": "$164,368.43",
+    "address": "911-13 PLAINFIELD AVENUEPLAINFIELD NJ 07060",
+    "upsetFloat": 164368.43,
+    "judgementFloat": null
+  },
+  {
+    "rescheduleCount": 0,
+    "detailsLink": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=1305381774",
+    "categoryLink": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=6",
+    "salesDate": "7/17/2024",
+    "upsetPrice": "$90,186.95",
+    "address": "1024 NORTH STREETMILLVILLE NJ",
+    "upsetFloat": 90186.95,
+    "judgementFloat": null
+  },
+  {
+    "rescheduleCount": 0,
+    "detailsLink": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=1305373843",
+    "categoryLink": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=15",
+    "salesDate": "7/3/2024",
+    "upsetPrice": "$123,459.65",
+    "address": "661 LINDEN AVENUERAHWAY NJ 07065",
+    "upsetFloat": 123459.65,
+    "judgementFloat": null
+  },
+  {
+    "rescheduleCount": 0,
+    "detailsLink": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=1305381750",
+    "categoryLink": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=6",
+    "salesDate": "7/17/2024",
+    "upsetPrice": "$160,602.44",
+    "address": "981 WEST CHESTNUT AVENUEVINELAND NJ 08360",
+    "upsetFloat": 160602.44,
+    "judgementFloat": null
+  },
+  {
+    "rescheduleCount": 0,
+    "detailsLink": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=1305381762",
+    "categoryLink": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=6",
+    "salesDate": "7/17/2024",
+    "upsetPrice": "$112,142.51",
+    "address": "524 BARRETTS RUN ROADBRIDGETON NJ 08302",
+    "upsetFloat": 112142.51,
+    "judgementFloat": null
+  },
+  {
+    "rescheduleCount": 0,
+    "detailsLink": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=1305381763",
+    "categoryLink": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=6",
+    "salesDate": "7/17/2024",
+    "upsetPrice": "$62,918.50",
+    "address": "105 YELKCA AVENUEVINELAND NJ 08360",
+    "upsetFloat": 62918.5,
+    "judgementFloat": null
+  },
+  {
+    "rescheduleCount": 0,
+    "detailsLink": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=1305381578",
+    "categoryLink": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=6",
+    "salesDate": "7/17/2024",
+    "upsetPrice": "$105,796.03",
+    "address": "34 INSTITUTE PLACEBRIDGETON NJ 08302",
+    "upsetFloat": 105796.03,
+    "judgementFloat": null
+  },
+  {
+    "rescheduleCount": 0,
+    "detailsLink": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=1305373814",
+    "categoryLink": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=15",
+    "salesDate": "7/3/2024",
+    "upsetPrice": "$166,923.26",
+    "address": "111 SOUTH GLENWOOD ROADFANWOOD NJ 07023",
+    "upsetFloat": 166923.26,
+    "judgementFloat": null
+  },
+  {
+    "rescheduleCount": 0,
+    "detailsLink": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=1305381767",
+    "categoryLink": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=6",
+    "salesDate": "7/17/2024",
+    "upsetPrice": "$65,089.38",
+    "address": "355 SHEPPARDS MILL ROADHOPEWELL TOWNSHIP NJ 08302",
+    "upsetFloat": 65089.38,
+    "judgementFloat": null
+  },
+  {
+    "rescheduleCount": 0,
+    "detailsLink": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=1305381770",
+    "categoryLink": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=6",
+    "salesDate": "7/17/2024",
+    "upsetPrice": "$148,249.81",
+    "address": "2 CARDINAL ROADMILLVILLE NJ 08332",
+    "upsetFloat": 148249.81,
+    "judgementFloat": null
+  },
+  {
+    "rescheduleCount": 0,
+    "detailsLink": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=1305373856",
+    "categoryLink": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=15",
+    "salesDate": "7/3/2024",
+    "upsetPrice": "$96,133.25",
+    "address": "25 LONG AVENUEHILLSIDE NJ 07205",
+    "upsetFloat": 96133.25,
+    "judgementFloat": null
+  },
+  {
+    "rescheduleCount": 0,
+    "detailsLink": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=1305373859",
+    "categoryLink": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=15",
+    "salesDate": "7/10/2024",
+    "upsetPrice": "$132,085.00",
+    "address": "918 ANNA STREETELIZABETH NJ 07201",
+    "upsetFloat": 132085,
+    "judgementFloat": null
+  },
+  {
+    "rescheduleCount": 0,
+    "detailsLink": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=1305381783",
+    "categoryLink": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=6",
+    "salesDate": "7/31/2024",
+    "upsetPrice": "$104,130.89",
+    "address": "552 BARRETTS RUN ROADBRIDGETON (HOPEWELL TWP) NJ 08302",
+    "upsetFloat": 104130.89,
+    "judgementFloat": null
+  },
+  {
+    "rescheduleCount": 0,
+    "detailsLink": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=1305381785",
+    "categoryLink": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=6",
+    "salesDate": "7/31/2024",
+    "upsetPrice": "$174,078.86",
+    "address": "55 AVON PLACEVINELAND NJ 08360",
+    "upsetFloat": 174078.86,
+    "judgementFloat": null
+  },
+  {
+    "rescheduleCount": 0,
+    "detailsLink": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=1305381779",
+    "categoryLink": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=6",
+    "salesDate": "8/14/2024",
+    "upsetPrice": "$51,829.15",
+    "address": "542 BROADLAWN TERRACEVINELAND NJ 08360",
+    "upsetFloat": 51829.15,
+    "judgementFloat": null
+  },
+  {
+    "rescheduleCount": 0,
+    "detailsLink": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=1305373831",
+    "categoryLink": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=15",
+    "salesDate": "7/17/2024",
+    "upsetPrice": "$153,727.35",
+    "address": "1238-B NORTH BROAD STREETHILLSIDE NJ 07205",
+    "upsetFloat": 153727.35,
+    "judgementFloat": null
+  },
+  {
+    "rescheduleCount": 0,
+    "detailsLink": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=1305383782",
+    "categoryLink": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+    "salesDate": "7/29/2024",
+    "upsetPrice": "$154,882.66",
+    "address": "801 Prospect AvenueUnion Beach NJ 07735",
+    "upsetFloat": 154882.66,
+    "judgementFloat": null
+  },
+  {
+    "rescheduleCount": 0,
+    "detailsLink": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=1305383339",
+    "categoryLink": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
+    "salesDate": "8/15/2024",
+    "upsetPrice": "$79,874.95",
+    "address": "215 48TH STREET UNIT 4UNION CITY NJ 07087",
+    "upsetFloat": 79874.95,
+    "judgementFloat": null
+  },
+  {
+    "rescheduleCount": 0,
+    "detailsLink": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=1305373840",
+    "categoryLink": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=15",
+    "salesDate": "7/24/2024",
+    "upsetPrice": "$111,838.87",
+    "address": "320 PARKWAY DRIVECLARK NJ 07066",
+    "upsetFloat": 111838.87,
+    "judgementFloat": null
+  },
+  {
+    "rescheduleCount": 0,
+    "detailsLink": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=1305384026",
+    "categoryLink": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+    "salesDate": "7/29/2024",
+    "upsetPrice": "$111,761.79",
+    "address": "330 Broad StreetEatontown NJ 07724",
+    "upsetFloat": 111761.79,
+    "judgementFloat": null
+  },
+  {
+    "rescheduleCount": 0,
+    "detailsLink": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=1305382841",
+    "categoryLink": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=7",
+    "salesDate": "7/12/2024",
+    "upsetPrice": "$113,442.32",
+    "address": "43 PEEK STREETROCHELLE PARK NJ 07662",
+    "upsetFloat": 113442.32,
+    "judgementFloat": null
+  },
+  {
+    "rescheduleCount": 0,
+    "detailsLink": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=1305382842",
+    "categoryLink": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=7",
+    "salesDate": "7/12/2024",
+    "upsetPrice": "$154,571.87",
+    "address": "300 WINSTON DRIVEAPT L01CLIFFSIDE PARK NJ 07010",
+    "upsetFloat": 154571.87,
+    "judgementFloat": null
+  },
+  {
+    "rescheduleCount": 0,
+    "detailsLink": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=1305383984",
+    "categoryLink": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+    "salesDate": "8/12/2024",
+    "upsetPrice": "$139,966.25",
+    "address": "22 Jacob DriveHowell NJ 07731",
+    "upsetFloat": 139966.25,
+    "judgementFloat": null
+  },
+  {
+    "rescheduleCount": 0,
+    "detailsLink": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=1305383986",
+    "categoryLink": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+    "salesDate": "8/12/2024",
+    "upsetPrice": "$164,907.72",
+    "address": "154 Atlantic AvenueLong Branch NJ 07740",
+    "upsetFloat": 164907.72,
+    "judgementFloat": null
+  },
+  {
+    "rescheduleCount": 0,
+    "detailsLink": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=1305382850",
+    "categoryLink": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=7",
+    "salesDate": "7/19/2024",
+    "upsetPrice": "$133,472.60",
+    "address": "76 STANDISH ROADHILLSDALE NJ 07642",
+    "upsetFloat": 133472.6,
+    "judgementFloat": null
+  },
+  {
+    "rescheduleCount": 0,
+    "detailsLink": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=1305383888",
+    "categoryLink": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+    "salesDate": "8/12/2024",
+    "upsetPrice": "$110,847.10",
+    "address": "10 East Ocean AvenueSea Bright NJ 07760",
+    "upsetFloat": 110847.1,
+    "judgementFloat": null
+  },
+  {
+    "rescheduleCount": 0,
+    "detailsLink": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=1305383792",
+    "categoryLink": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+    "salesDate": "8/12/2024",
+    "upsetPrice": "$163,207.06",
+    "address": "332 Crawford StreetShrewsbury NJ 07701",
+    "upsetFloat": 163207.06,
+    "judgementFloat": null
+  },
+  {
+    "rescheduleCount": 0,
+    "detailsLink": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=1305383502",
+    "categoryLink": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+    "salesDate": "8/26/2024",
+    "upsetPrice": "$121,860.40",
+    "address": "414 Oak Tree RoadFreehold NJ 07728-8424",
+    "upsetFloat": 121860.4,
+    "judgementFloat": null
+  },
+  {
+    "rescheduleCount": 0,
+    "detailsLink": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=1305384020",
+    "categoryLink": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+    "salesDate": "8/26/2024",
+    "upsetPrice": "$110,090.40",
+    "address": "29 Crescent PlaceMatawan NJ 07747",
+    "upsetFloat": 110090.4,
+    "judgementFloat": null
+  },
+  {
+    "rescheduleCount": 0,
+    "detailsLink": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=1305384008",
+    "categoryLink": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+    "salesDate": "8/26/2024",
+    "upsetPrice": "$75,094.73",
+    "address": "104 Cedar DriveColts Neck NJ 07722",
+    "upsetFloat": 75094.73,
+    "judgementFloat": null
+  },
+  {
+    "rescheduleCount": 0,
+    "detailsLink": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=1305384016",
+    "categoryLink": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+    "salesDate": "8/26/2024",
+    "upsetPrice": "$126,999.14",
+    "address": "18 Hearthstone DriveManalapan NJ 07726",
+    "upsetFloat": 126999.14,
+    "judgementFloat": null
+  },
+  {
+    "rescheduleCount": 0,
+    "detailsLink": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=1305384036",
+    "categoryLink": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+    "salesDate": "9/9/2024",
+    "upsetPrice": "$158,142.69",
+    "address": "29 Jared DriveManalapan NJ 07726",
+    "upsetFloat": 158142.69,
+    "judgementFloat": null
+  },
+  {
+    "rescheduleCount": 0,
+    "detailsLink": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=1305384045",
+    "categoryLink": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+    "salesDate": "9/9/2024",
+    "upsetPrice": "$143,419.13",
+    "address": "26 Alameda CourtShrewsbury NJ 07702",
+    "upsetFloat": 143419.13,
+    "judgementFloat": null
+  },
+  {
+    "rescheduleCount": 0,
+    "detailsLink": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=1305384029",
+    "categoryLink": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+    "salesDate": "9/9/2024",
+    "upsetPrice": "$56,550.79",
+    "address": "27 Helen AvenueFreehold NJ 07728",
+    "upsetFloat": 56550.79,
+    "judgementFloat": null
+  },
+  {
+    "rescheduleCount": 0,
+    "detailsLink": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=1305384063",
+    "categoryLink": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+    "salesDate": "9/9/2024",
+    "upsetPrice": "$80,285.70",
+    "address": "Charlotte PlaceMonmouth Beach NJ 07750",
+    "upsetFloat": 80285.7,
+    "judgementFloat": null
+  },
+  {
+    "rescheduleCount": 0,
+    "detailsLink": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=1305384077",
+    "categoryLink": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+    "salesDate": "9/23/2024",
+    "upsetPrice": "$161,445.85",
+    "address": "77 Overlook WayUnit BManalapan NJ 07726",
+    "upsetFloat": 161445.85,
+    "judgementFloat": null
+  },
+  {
+    "rescheduleCount": 0,
+    "detailsLink": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=1305384081",
+    "categoryLink": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+    "salesDate": "9/23/2024",
+    "upsetPrice": "$96,980.50",
+    "address": "554 Clubhouse DriveMiddletown NJ 07748",
+    "upsetFloat": 96980.5,
+    "judgementFloat": null
+  },
+  {
+    "rescheduleCount": 0,
+    "detailsLink": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=1305384086",
+    "categoryLink": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=8",
+    "salesDate": "9/23/2024",
+    "upsetPrice": "$66,546.34",
+    "address": "119 Chestnut AvenueAtlantic Highlands NJ 07716",
+    "upsetFloat": 66546.34,
+    "judgementFloat": null
+  },
+  {
+    "rescheduleCount": 1,
+    "detailsLink": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=1305381682",
+    "categoryLink": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=6",
+    "salesDate": "6/19/2024",
+    "upsetPrice": "$71,899.70",
+    "address": "276 FAIRTON GOULDTOWN ROADBRIDGETON NJ 08302",
+    "upsetFloat": 71899.7,
+    "judgementFloat": null
+  },
+  {
+    "rescheduleCount": 1,
+    "detailsLink": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=1305381705",
+    "categoryLink": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=6",
+    "salesDate": "6/19/2024",
+    "upsetPrice": "$149,900.02",
+    "address": "220 DOREN TERRACEVINELAND NJ 08360",
+    "upsetFloat": 149900.02,
+    "judgementFloat": null
+  },
+  {
+    "rescheduleCount": 1,
+    "detailsLink": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=1305381596",
+    "categoryLink": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=6",
+    "salesDate": "6/19/2024",
+    "upsetPrice": "$136,286.92",
+    "address": "16 SPRING STREETBRIDGETON NJ 08302",
+    "upsetFloat": 136286.92,
+    "judgementFloat": null
+  },
+  {
+    "rescheduleCount": 1,
+    "detailsLink": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=1305383245",
+    "categoryLink": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
+    "salesDate": "6/20/2024",
+    "upsetPrice": "$116,022.12",
+    "address": "145 HARRISON AVE UNIT B1JERSEY CITY NJ 07304",
+    "upsetFloat": 116022.12,
+    "judgementFloat": null
+  },
+  {
+    "rescheduleCount": 1,
+    "detailsLink": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=1305393643",
+    "categoryLink": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+    "salesDate": "6/20/2024",
+    "upsetPrice": "$173,101.45",
+    "address": "4675 Ocean AvenueMays Landing NJ 08330",
+    "upsetFloat": 173101.45,
+    "judgementFloat": null
+  },
+  {
+    "rescheduleCount": 1,
+    "detailsLink": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=1305394622",
+    "categoryLink": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+    "salesDate": "6/20/2024",
+    "upsetPrice": "$77,718.01",
+    "address": "8 West 15th StreetHammonton NJ 08037",
+    "upsetFloat": 77718.01,
+    "judgementFloat": null
+  },
+  {
+    "rescheduleCount": 1,
+    "detailsLink": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=1305381734",
+    "categoryLink": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=6",
+    "salesDate": "7/3/2024",
+    "upsetPrice": "$153,206.68",
+    "address": "639 FORDVILLE ROADTOWNSHIP OF FAIRFIELD (BRIDGETON) NJ 08302",
+    "upsetFloat": 153206.68,
+    "judgementFloat": null
+  },
+  {
+    "rescheduleCount": 1,
+    "detailsLink": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=1305381722",
+    "categoryLink": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=6",
+    "salesDate": "7/3/2024",
+    "upsetPrice": "$147,863.21",
+    "address": "79 CUMBERLAND AVENUEBRIDGETON NJ 08302",
+    "upsetFloat": 147863.21,
+    "judgementFloat": null
+  },
+  {
+    "rescheduleCount": 1,
+    "detailsLink": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=1305381724",
+    "categoryLink": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=6",
+    "salesDate": "7/3/2024",
+    "upsetPrice": "$157,630.48",
+    "address": "1964 EAST OAK ROAD UNIT O-1VINELAND NJ 08361",
+    "upsetFloat": 157630.48,
+    "judgementFloat": null
+  },
+  {
+    "rescheduleCount": 1,
+    "detailsLink": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=1305381731",
+    "categoryLink": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=6",
+    "salesDate": "7/3/2024",
+    "upsetPrice": "$131,240.48",
+    "address": "11 SUNSET LANEBRIDGETON NJ 08302",
+    "upsetFloat": 131240.48,
+    "judgementFloat": null
+  },
+  {
+    "rescheduleCount": 1,
+    "detailsLink": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=1305383261",
+    "categoryLink": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
+    "salesDate": "7/18/2024",
+    "upsetPrice": "$158,606.38",
+    "address": "150 CLERK STREETJERSEY CITY NJ 07305",
+    "upsetFloat": 158606.38,
+    "judgementFloat": null
+  },
+  {
+    "rescheduleCount": 1,
+    "detailsLink": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=1305383230",
+    "categoryLink": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
+    "salesDate": "7/18/2024",
+    "upsetPrice": "$51,488.75",
+    "address": "138 WEST 28TH STREETBAYONNE NJ 07002",
+    "upsetFloat": 51488.75,
+    "judgementFloat": null
+  },
+  {
+    "rescheduleCount": 1,
+    "detailsLink": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=1305381748",
+    "categoryLink": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=6",
+    "salesDate": "7/17/2024",
+    "upsetPrice": "$163,269.58",
+    "address": "427 FULTON STREETMILLVILLE NJ 08332",
+    "upsetFloat": 163269.58,
+    "judgementFloat": null
+  },
+  {
+    "rescheduleCount": 1,
+    "detailsLink": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=1305381594",
+    "categoryLink": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=6",
+    "salesDate": "12/6/2024",
+    "upsetPrice": "$136,807.42",
+    "address": "516 EAST OAK STREETMILLVILLE NJ 08332",
+    "upsetFloat": 136807.42,
+    "judgementFloat": null
+  },
+  {
+    "rescheduleCount": 1,
+    "detailsLink": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=1305382802",
+    "categoryLink": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=7",
+    "salesDate": "8/2/2024",
+    "upsetPrice": "$131,661.21",
+    "address": "72 WESTMINSTER AVENUESADDLE BROOK NJ 07663",
+    "upsetFloat": 131661.21,
+    "judgementFloat": null
+  },
+  {
+    "rescheduleCount": 2,
+    "detailsLink": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=1305383105",
+    "categoryLink": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
+    "salesDate": "6/20/2024",
+    "upsetPrice": "$57,990.34",
+    "address": "75 LIBERTY AVENUE UNIT A6JERSEY CITY NJ 07306",
+    "upsetFloat": 57990.34,
+    "judgementFloat": null
+  },
+  {
+    "rescheduleCount": 2,
+    "detailsLink": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=1305394993",
+    "categoryLink": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+    "salesDate": "6/13/2024",
+    "upsetPrice": "$140,834.75",
+    "address": "101 Martin Luther KingEgg Harbor Township NJ 08234",
+    "upsetFloat": 140834.75,
+    "judgementFloat": null
+  },
+  {
+    "rescheduleCount": 2,
+    "detailsLink": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=1305381628",
+    "categoryLink": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=6",
+    "salesDate": "6/19/2024",
+    "upsetPrice": "$104,930.11",
+    "address": "173 POINT BREEZE DRIVEMILLVILLE NJ 08332",
+    "upsetFloat": 104930.11,
+    "judgementFloat": null
+  },
+  {
+    "rescheduleCount": 2,
+    "detailsLink": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=1305394447",
+    "categoryLink": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+    "salesDate": "6/13/2024",
+    "upsetPrice": "$71,663.23",
+    "address": "4834 White Horse Pikef/k/a 737 White Horse PikeMullica Township NJ 08062",
+    "upsetFloat": 71663.23,
+    "judgementFloat": null
+  },
+  {
+    "rescheduleCount": 2,
+    "detailsLink": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=1305373678",
+    "categoryLink": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=15",
+    "salesDate": "6/12/2024",
+    "upsetPrice": "$150,407.04",
+    "address": "840 MARTIN STREETELIZABETH NJ 07201",
+    "upsetFloat": 150407.04,
+    "judgementFloat": null
+  },
+  {
+    "rescheduleCount": 2,
+    "detailsLink": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=1305381623",
+    "categoryLink": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=6",
+    "salesDate": "6/19/2024",
+    "upsetPrice": "$149,316.00",
+    "address": "107 NORTH EAST AVENUEVINELAND NJ 08360",
+    "upsetFloat": 149316,
+    "judgementFloat": null
+  },
+  {
+    "rescheduleCount": 2,
+    "detailsLink": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=1305394504",
+    "categoryLink": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+    "salesDate": "6/20/2024",
+    "upsetPrice": "$64,158.77",
+    "address": "2041 Garden RoadMays Landing NJ 08330",
+    "upsetFloat": 64158.77,
+    "judgementFloat": null
+  },
+  {
+    "rescheduleCount": 2,
+    "detailsLink": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=1305381645",
+    "categoryLink": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=6",
+    "salesDate": "7/3/2024",
+    "upsetPrice": "$92,773.70",
+    "address": "420 NORTH 5TH STREETMILLVILLE NJ 08332",
+    "upsetFloat": 92773.7,
+    "judgementFloat": null
+  },
+  {
+    "rescheduleCount": 2,
+    "detailsLink": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=1305381672",
+    "categoryLink": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=6",
+    "salesDate": "7/3/2024",
+    "upsetPrice": "$139,195.82",
+    "address": "701 SILVER RUN ROADMILLVILLE NJ 08332",
+    "upsetFloat": 139195.82,
+    "judgementFloat": null
+  },
+  {
+    "rescheduleCount": 2,
+    "detailsLink": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=1305381679",
+    "categoryLink": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=6",
+    "salesDate": "7/3/2024",
+    "upsetPrice": "$87,242.56",
+    "address": "129 EWING STREETBRIDGETON NJ 08302",
+    "upsetFloat": 87242.56,
+    "judgementFloat": null
+  },
+  {
+    "rescheduleCount": 2,
+    "detailsLink": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=1305381641",
+    "categoryLink": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=6",
+    "salesDate": "7/17/2024",
+    "upsetPrice": "$111,959.28",
+    "address": "18 KEMBLE AVENUEMILLVILLE NJ 08332",
+    "upsetFloat": 111959.28,
+    "judgementFloat": null
+  },
+  {
+    "rescheduleCount": 2,
+    "detailsLink": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=1305381694",
+    "categoryLink": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=6",
+    "salesDate": "7/17/2024",
+    "upsetPrice": "$143,940.10",
+    "address": "712 OXFORD STREETVINELAND NJ 08360",
+    "upsetFloat": 143940.1,
+    "judgementFloat": null
+  },
+  {
+    "rescheduleCount": 2,
+    "detailsLink": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=1305381700",
+    "categoryLink": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=6",
+    "salesDate": "7/17/2024",
+    "upsetPrice": "$81,130.78",
+    "address": "47 OLD DEERFIELD PIKEUPPER DEERFIELD TOWNSHIP NJ 08302",
+    "upsetFloat": 81130.78,
+    "judgementFloat": null
+  },
+  {
+    "rescheduleCount": 2,
+    "detailsLink": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=1305381580",
+    "categoryLink": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=6",
+    "salesDate": "7/31/2024",
+    "upsetPrice": "$142,325.71",
+    "address": "539 CARMEL ROADMILLVILLE NJ 08332",
+    "upsetFloat": 142325.71,
+    "judgementFloat": null
+  },
+  {
+    "rescheduleCount": 2,
+    "detailsLink": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=1305382691",
+    "categoryLink": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=7",
+    "salesDate": "7/12/2024",
+    "upsetPrice": "$53,488.91",
+    "address": "53 MARTHA AVENUEELMWOOD PARK NJ 07407",
+    "upsetFloat": 53488.91,
+    "judgementFloat": null
+  },
+  {
+    "rescheduleCount": 3,
+    "detailsLink": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=1305373675",
+    "categoryLink": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=15",
+    "salesDate": "6/12/2024",
+    "upsetPrice": "$130,233.60",
+    "address": "555 JEFFERSON AVENUEELIZABETH NJ 07201",
+    "upsetFloat": 130233.6,
+    "judgementFloat": null
+  },
+  {
+    "rescheduleCount": 4,
+    "detailsLink": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=1305373677",
+    "categoryLink": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=15",
+    "salesDate": "6/12/2024",
+    "upsetPrice": "$163,442.04",
+    "address": "1062 WILLIAM STREETELIZABETH NJ 07201",
+    "upsetFloat": 163442.04,
+    "judgementFloat": null
+  },
+  {
+    "rescheduleCount": 4,
+    "detailsLink": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=1305383155",
+    "categoryLink": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=10",
+    "salesDate": "7/18/2024",
+    "upsetPrice": "$150,271.43",
+    "address": "521 55TH STREETWEST NEW YORK NJ 07093",
+    "upsetFloat": 150271.43,
+    "judgementFloat": null
+  },
+  {
+    "rescheduleCount": 4,
+    "detailsLink": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=1305381893",
+    "categoryLink": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=7",
+    "salesDate": "7/26/2024",
+    "upsetPrice": "$166,973.27",
+    "address": "36 GLEN AVENUE EAST(A/K/A GLEN AVENUE)HARRINGTON PARK NJ 07640",
+    "upsetFloat": 166973.27,
+    "judgementFloat": null
+  },
+  {
+    "rescheduleCount": 5,
+    "detailsLink": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=1305394414",
+    "categoryLink": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=25",
+    "salesDate": "6/13/2024",
+    "upsetPrice": "$93,198.66",
+    "address": "2263 Richards AvenueHammonton NJ 08037",
+    "upsetFloat": 93198.66,
+    "judgementFloat": null
+  },
+  {
+    "rescheduleCount": 5,
+    "detailsLink": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=1305382408",
+    "categoryLink": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=7",
+    "salesDate": "6/14/2024",
+    "upsetPrice": "$50,415.10",
+    "address": "360 LEONARD DRIVENEW MILFORD NJ 07646",
+    "upsetFloat": 50415.1,
+    "judgementFloat": null
+  },
+  {
+    "rescheduleCount": 12,
+    "detailsLink": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=1305381572",
+    "categoryLink": "https://salesweb.civilview.com/Sales/SalesSearch?countyId=6",
+    "salesDate": "7/17/2024",
+    "upsetPrice": "$79,129.13",
+    "address": "1233 MAIN STREETAKA 1233 WEST MAIN STREETMILLVILLE NJ 08332",
+    "upsetFloat": 79129.13,
+    "judgementFloat": null
+  }
+]
+Filtered 114 of 637!
+Max price: 175000
+Min price: 50000
+Sorting by: RESCHEDULES

@@ -1,3 +1,11 @@
+/**
+*   Forclosure Scraper!
+*
+*   run with the command: npm start
+*   
+*   run and save output to a file: npm start > example.txt
+*/
+
 import puppeteer from 'puppeteer';
 
 function sleep(millis = 1000) {
@@ -13,16 +21,18 @@ function sleep(millis = 1000) {
   const MAX_PRICE = 175_000;
   const MIN_PRICE = 50_000;
 
-  const SORT_BY = 'RESCHEDULES';
-  // const SORT_BY = 'PRICE';
+  const SORT_BY = 'RESCHEDULES'; // can be RESCHEDULES or PRICE
 
-  const SLEEP_TIME = 200;
+  const SLEEP_TIME = 250;
+
+  // const SPECIFIC_DATE = "";  // empty means use any date
+  const SPECIFIC_DATE = "6/13/2024";
 
   const pageUrls = [
-    // 'https://salesweb.civilview.com/Sales/SalesSearch?countyId=25',   // Atlantic County, NJ
-    // 'https://salesweb.civilview.com/Sales/SalesSearch?countyId=6',    // Cumberland County, NJ
+    'https://salesweb.civilview.com/Sales/SalesSearch?countyId=25',   // Atlantic County, NJ
+    'https://salesweb.civilview.com/Sales/SalesSearch?countyId=6',    // Cumberland County, NJ
     'https://salesweb.civilview.com/Sales/SalesSearch?countyId=7',    // Bergen County, NJ
-    // 'https://salesweb.civilview.com/Sales/SalesSearch?countyId=8',    // Monmouth County, NJ
+    'https://salesweb.civilview.com/Sales/SalesSearch?countyId=8',    // Monmouth County, NJ
     // 'https://salesweb.civilview.com/Sales/SalesSearch?countyId=9',    // Morris County, NJ
     'https://salesweb.civilview.com/Sales/SalesSearch?countyId=10',   // Hudson County, NJ
     // 'https://salesweb.civilview.com/Sales/SalesSearch?countyId=15',   // Union County, NJ
@@ -115,8 +125,6 @@ function sleep(millis = 1000) {
           }
 
           if (detailCellText === 'Address:') {
-
-            const a = await (await detailCells[detailCellIndex].getProperty('textContent')).jsonValue();
             const labelNeighborText = await (await detailCells[detailCellIndex + 1].getProperty('textContent')).jsonValue();
             currentProperty.address = labelNeighborText.trim();
           }
@@ -152,8 +160,13 @@ function sleep(millis = 1000) {
 
         if ((upsetFloat < MAX_PRICE || judgementFloat < MAX_PRICE) &&
           (upsetFloat > MIN_PRICE || judgementFloat > MIN_PRICE)) {
-          outEmoji = '✅';
-          properties.push(currentProperty);
+
+          if (SPECIFIC_DATE === '' || currentProperty.salesDate === SPECIFIC_DATE) {
+
+            outEmoji = '✅';
+            properties.push(currentProperty);
+          }
+
         }
 
         console.log(outEmoji + ' ' + currentProperty.address)
@@ -177,7 +190,6 @@ function sleep(millis = 1000) {
 
   })
 
-
   // Writes entire array without cutting off
   process.stdout.write(JSON.stringify(properties, null, 2) + '\n');
 
@@ -185,5 +197,6 @@ function sleep(millis = 1000) {
   console.log('Max price: ' + MAX_PRICE);
   console.log('Min price: ' + MIN_PRICE);
   console.log('Sorting by: ' + SORT_BY);
+  console.log('Specific date: ' + SPECIFIC_DATE);
 
 })();
