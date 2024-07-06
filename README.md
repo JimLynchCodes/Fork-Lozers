@@ -1,2 +1,3 @@
 # Fork-Lozers
-nothing to see here!
+
+Command line utility for scraping sherrif sale data.
